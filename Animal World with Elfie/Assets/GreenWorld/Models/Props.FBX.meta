@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 20da99d71f46578419596000f3427303
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Fence
+    100002: FenceModular
+    100004: Flowers
+    100006: Mushrooms
+    100008: Mushrooms 1
+    100010: PalmTree
+    100012: PineTree
+    100014: //RootNode
+    100016: Rocks
+    100018: Tree
+    100020: TreeLog
+    100022: TreeStub
+    400000: Fence
+    400002: FenceModular
+    400004: Flowers
+    400006: Mushrooms
+    400008: Mushrooms 1
+    400010: PalmTree
+    400012: PineTree
+    400014: //RootNode
+    400016: Rocks
+    400018: Tree
+    400020: TreeLog
+    400022: TreeStub
+    2300000: Fence
+    2300002: FenceModular
+    2300004: Flowers
+    2300006: Mushrooms
+    2300008: Mushrooms 1
+    2300010: PalmTree
+    2300012: PineTree
+    2300014: Rocks
+    2300016: Tree
+    2300018: TreeLog
+    2300020: TreeStub
+    3300000: Fence
+    3300002: FenceModular
+    3300004: Flowers
+    3300006: Mushrooms
+    3300008: Mushrooms 1
+    3300010: PalmTree
+    3300012: PineTree
+    3300014: Rocks
+    3300016: Tree
+    3300018: TreeLog
+    3300020: TreeStub
+    4300000: TreeStub
+    4300002: TreeLog
+    4300004: Mushrooms
+    4300006: Fence
+    4300008: PalmTree
+    4300010: Tree
+    4300012: PineTree
+    4300014: Mushrooms
+    4300016: Flowers
+    4300018: Rocks
+    4300020: FenceModular
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

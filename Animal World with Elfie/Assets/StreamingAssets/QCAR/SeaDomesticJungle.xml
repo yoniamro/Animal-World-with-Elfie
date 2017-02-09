@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rabbit" size="846.000000 845.000000" />
+    <ImageTarget name="monkey" size="845.000000 846.000000" />
+    <ImageTarget name="Chimpanzee" size="846.000000 846.000000" />
+    <ImageTarget name="squirrel" size="848.000000 844.000000" />
+    <ImageTarget name="frog" size="846.000000 850.000000" />
+    <ImageTarget name="Beer" size="850.000000 847.000000" />
+    <ImageTarget name="Crocodile" size="848.000000 845.000000" />
+    <ImageTarget name="snake" size="847.000000 845.000000" />
+    <ImageTarget name="fox" size="848.000000 829.000000" />
+    <ImageTarget name="tiger" size="848.000000 847.000000" />
+    <ImageTarget name="wolf" size="847.000000 844.000000" />
+    <ImageTarget name="leopard" size="849.000000 848.000000" />
+    <ImageTarget name="lion" size="851.000000 850.000000" />
+    <ImageTarget name="Pigeon" size="966.000000 733.000000" />
+    <ImageTarget name="Donkey" size="940.000000 938.000000" />
+    <ImageTarget name="hedgehog" size="849.000000 849.000000" />
+    <ImageTarget name="camel" size="844.000000 838.000000" />
+    <ImageTarget name="goose" size="848.000000 843.000000" />
+    <ImageTarget name="duck" size="850.000000 840.000000" />
+    <ImageTarget name="chicken" size="848.000000 845.000000" />
+    <ImageTarget name="sheep" size="846.000000 847.000000" />
+    <ImageTarget name="horse" size="838.000000 847.000000" />
+    <ImageTarget name="cow" size="849.000000 844.000000" />
+    <ImageTarget name="cat" size="849.000000 842.000000" />
+    <ImageTarget name="dog" size="848.000000 842.000000" />
+    <ImageTarget name="Goldfish" size="846.000000 845.000000" />
+    <ImageTarget name="Crab" size="846.000000 845.000000" />
+    <ImageTarget name="Shark" size="846.000000 848.000000" />
+    <ImageTarget name="Jellyfish" size="846.000000 846.000000" />
+    <ImageTarget name="Dolphin" size="847.000000 846.000000" />
+    <ImageTarget name="BlueWhale" size="847.000000 845.000000" />
+    <ImageTarget name="SeaTurtle" size="847.000000 846.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BigMarker" size="1024.000000 650.419067" />
+    <ImageTarget name="groundcard" size="869.000000 864.000000" />
+    <ImageTarget name="actionCard" size="865.000000 865.000000" />
+    <ImageTarget name="Moth" size="845.000000 845.000000" />
+    <ImageTarget name="Scorpion" size="846.000000 847.000000" />
+    <ImageTarget name="Spider" size="847.000000 846.000000" />
+    <ImageTarget name="Wasp" size="847.000000 845.000000" />
+    <ImageTarget name="Bee" size="848.000000 846.000000" />
+    <ImageTarget name="Ant" size="846.000000 846.000000" />
+    <ImageTarget name="Grasshopper" size="850.000000 850.000000" />
+    <ImageTarget name="PrayingMantis" size="847.000000 846.000000" />
+    <ImageTarget name="HouseFly" size="848.000000 848.000000" />
+    <ImageTarget name="Mosquito" size="847.000000 846.000000" />
+    <ImageTarget name="Ladybug" size="848.000000 845.000000" />
+    <ImageTarget name="Dragonfly" size="847.000000 847.000000" />
+    <ImageTarget name="Butterfly" size="847.000000 846.000000" />
+    <ImageTarget name="crow" size="847.000000 848.000000" />
+    <ImageTarget name="Vulture" size="844.000000 847.000000" />
+    <ImageTarget name="woodpecker" size="846.000000 848.000000" />
+    <ImageTarget name="sparrow" size="847.000000 846.000000" />
+    <ImageTarget name="peakock" size="849.000000 847.000000" />
+    <ImageTarget name="parrot" size="850.000000 849.000000" />
+    <ImageTarget name="seagull" size="849.000000 847.000000" />
+    <ImageTarget name="swallow" size="844.000000 845.000000" />
+    <ImageTarget name="swan" size="847.000000 845.000000" />
+    <ImageTarget name="penguin" size="848.000000 848.000000" />
+    <ImageTarget name="owl" size="846.000000 848.000000" />
+    <ImageTarget name="eagle" size="849.000000 849.000000" />
+    <ImageTarget name="Deer" size="845.000000 843.000000" />
+    <ImageTarget name="Rabbit" size="845.000000 842.000000" />
+    <ImageTarget name="snail" size="845.000000 842.000000" />
+    <ImageTarget name="panda" size="844.000000 846.000000" />
+    <ImageTarget name="giraffe" size="847.000000 850.000000" />
+    <ImageTarget name="rhino" size="847.000000 845.000000" />
+    <ImageTarget name="antelope" size="847.000000 847.000000" />
+    <ImageTarget name="zebra" size="844.000000 851.000000" />
+    <ImageTarget name="elephant" size="845.000000 842.000000" />
+  </Tracking>
+</QCARConfig>
