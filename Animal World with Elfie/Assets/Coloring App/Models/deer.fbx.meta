@@ -1,0 +1,2603 @@
+fileFormatVersion: 2
+guid: 30d6bbd8018dbdf4cbf413b6f2a58d66
+timeCreated: 1455324277
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: deer_Idle_ambientLight1
+    100004: deer_Idle_deer
+    100006: deer_Idle_directionalLight1
+    100008: deer_Idle_directionalLight2
+    100010: deer_Idle_head1_AttributesConnectToUpperBody
+    100012: deer_Idle_head1_Buffer
+    100014: deer_Idle_head1_cluster1Handle
+    100016: deer_Idle_head1_cluster2Handle
+    100018: deer_Idle_head1_Control
+    100020: deer_Idle_head1_head
+    100022: deer_Idle_head1_neck
+    100024: deer_Idle_head1_neckAWUPAimer
+    100026: deer_Idle_head1_neckAWUPLean
+    100028: deer_Idle_head1_neckAWUPTwist
+    100030: deer_Idle_head1_neckAWUPUnTwist
+    100032: deer_Idle_head1_neckBuffer
+    100034: deer_Idle_head1_neckControl
+    100036: deer_Idle_head1_neckSpace
+    100038: deer_Idle_head1_ParentConstrain
+    100040: deer_Idle_head1_ParentToUpperBody
+    100042: deer_Idle_head1_ParentToWorld
+    100044: deer_Idle_head1_RotateToIsolate
+    100046: deer_Idle_head1_rotIsolate
+    100048: deer_Idle_joint1
+    100050: deer_Idle_joint2
+    100052: deer_Idle_leftLeg1_arrowClusters
+    100054: deer_Idle_leftLeg1_AttributesConnectToUpperBody
+    100056: deer_Idle_leftLeg1_AWUPAim
+    100058: deer_Idle_leftLeg1_AWUPLean
+    100060: deer_Idle_leftLeg1_AWUPTwist
+    100062: deer_Idle_leftLeg1_AWUPUnTwist
+    100064: deer_Idle_leftLeg1_cluster2Handle
+    100066: deer_Idle_leftLeg1_cluster3Handle
+    100068: deer_Idle_leftLeg1_cluster4Handle
+    100070: deer_Idle_leftLeg1_distanceDimension1
+    100072: deer_Idle_leftLeg1_DistanceMeasure1
+    100074: deer_Idle_leftLeg1_DistanceMeasure2
+    100076: deer_Idle_leftLeg1_FootArrowPoleVector
+    100078: deer_Idle_leftLeg1_FootBuffer
+    100080: deer_Idle_leftLeg1_FootControl
+    100082: deer_Idle_leftLeg1_footControlSizer
+    100084: deer_Idle_leftLeg1_FootIK
+    100086: deer_Idle_leftLeg1_FootIKPoleVector
+    100088: deer_Idle_leftLeg1_HeelRaiser
+    100090: deer_Idle_leftLeg1_highResJointAimer
+    100092: deer_Idle_leftLeg1_hipTwistAimer
+    100094: deer_Idle_leftLeg1_hipUpVect1
+    100096: deer_Idle_leftLeg1_hipUpVect2
+    100098: deer_Idle_leftLeg1_HiResFoot
+    100100: deer_Idle_leftLeg1_HiResLowerLeg
+    100102: deer_Idle_leftLeg1_HiResLowerLegTwist
+    100104: deer_Idle_leftLeg1_HiResToe
+    100106: deer_Idle_leftLeg1_HiResUpperLeg
+    100108: deer_Idle_leftLeg1_HiResUpperLegTwist
+    100110: deer_Idle_leftLeg1_IKHeelControl
+    100112: deer_Idle_leftLeg1_IKSwitchToePlacer
+    100114: deer_Idle_leftLeg1_KneeAimer
+    100116: deer_Idle_leftLeg1_KneeBuffer
+    100118: deer_Idle_leftLeg1_KneeCorrectForWindget
+    100120: deer_Idle_leftLeg1_KneeFixPosition
+    100122: deer_Idle_leftLeg1_KneeRotateXtra
+    100124: deer_Idle_leftLeg1_LegIKAimed
+    100126: deer_Idle_leftLeg1_LegIKBuffer
+    100128: deer_Idle_leftLeg1_LegIKControl
+    100130: deer_Idle_leftLeg1_LegIKKneeControl
+    100132: deer_Idle_leftLeg1_LegPoleVector
+    100134: deer_Idle_leftLeg1_LowerLegBuffer
+    100136: deer_Idle_leftLeg1_LowerLegControl
+    100138: deer_Idle_leftLeg1_ParentConstrain
+    100140: deer_Idle_leftLeg1_ParentToUpperBody
+    100142: deer_Idle_leftLeg1_ParentToWorldNull
+    100144: deer_Idle_leftLeg1_poleVectCounterAim
+    100146: deer_Idle_leftLeg1_RigAim
+    100148: deer_Idle_leftLeg1_RigFoot
+    100150: deer_Idle_leftLeg1_Rigging
+    100152: deer_Idle_leftLeg1_RigJoints
+    100154: deer_Idle_leftLeg1_RigLowerLeg
+    100156: deer_Idle_leftLeg1_RigToe
+    100158: deer_Idle_leftLeg1_RigToe_end
+    100160: deer_Idle_leftLeg1_RigToeAim
+    100162: deer_Idle_leftLeg1_RigUpperLeg
+    100164: deer_Idle_leftLeg1_rotCluster
+    100166: deer_Idle_leftLeg1_RotIsolate
+    100168: deer_Idle_leftLeg1_RotUnIsolate
+    100170: deer_Idle_leftLeg1_stretchValues
+    100172: deer_Idle_leftLeg1_switchIKOut
+    100174: deer_Idle_leftLeg1_ToeBuffer
+    100176: deer_Idle_leftLeg1_ToeControl
+    100178: deer_Idle_leftLeg1_ToeIK
+    100180: deer_Idle_leftLeg1_ToeIKPoleVector
+    100182: deer_Idle_leftLeg1_ToeRaiser
+    100184: deer_Idle_leftLeg1_UpperLegBuffer
+    100186: deer_Idle_leftLeg1_UpperLegControl
+    100188: deer_Idle_leftLeg2_arrowClusters
+    100190: deer_Idle_leftLeg2_AttributesConnectToUpperBody
+    100192: deer_Idle_leftLeg2_AWUPAim
+    100194: deer_Idle_leftLeg2_AWUPLean
+    100196: deer_Idle_leftLeg2_AWUPTwist
+    100198: deer_Idle_leftLeg2_AWUPUnTwist
+    100200: deer_Idle_leftLeg2_cluster2Handle
+    100202: deer_Idle_leftLeg2_cluster3Handle
+    100204: deer_Idle_leftLeg2_cluster4Handle
+    100206: deer_Idle_leftLeg2_distanceDimension1
+    100208: deer_Idle_leftLeg2_DistanceMeasure1
+    100210: deer_Idle_leftLeg2_DistanceMeasure2
+    100212: deer_Idle_leftLeg2_FootArrowPoleVector
+    100214: deer_Idle_leftLeg2_FootBuffer
+    100216: deer_Idle_leftLeg2_FootControl
+    100218: deer_Idle_leftLeg2_footControlSizer
+    100220: deer_Idle_leftLeg2_FootIK
+    100222: deer_Idle_leftLeg2_FootIKPoleVector
+    100224: deer_Idle_leftLeg2_HeelRaiser
+    100226: deer_Idle_leftLeg2_highResJointAimer
+    100228: deer_Idle_leftLeg2_hipTwistAimer
+    100230: deer_Idle_leftLeg2_hipUpVect1
+    100232: deer_Idle_leftLeg2_hipUpVect2
+    100234: deer_Idle_leftLeg2_HiResFoot
+    100236: deer_Idle_leftLeg2_HiResLowerLeg
+    100238: deer_Idle_leftLeg2_HiResLowerLegTwist
+    100240: deer_Idle_leftLeg2_HiResToe
+    100242: deer_Idle_leftLeg2_HiResUpperLeg
+    100244: deer_Idle_leftLeg2_HiResUpperLegTwist
+    100246: deer_Idle_leftLeg2_IKHeelControl
+    100248: deer_Idle_leftLeg2_IKSwitchToePlacer
+    100250: deer_Idle_leftLeg2_KneeAimer
+    100252: deer_Idle_leftLeg2_KneeBuffer
+    100254: deer_Idle_leftLeg2_KneeCorrectForWindget
+    100256: deer_Idle_leftLeg2_KneeFixPosition
+    100258: deer_Idle_leftLeg2_KneeRotateXtra
+    100260: deer_Idle_leftLeg2_LegIKAimed
+    100262: deer_Idle_leftLeg2_LegIKBuffer
+    100264: deer_Idle_leftLeg2_LegIKControl
+    100266: deer_Idle_leftLeg2_LegIKKneeControl
+    100268: deer_Idle_leftLeg2_LegPoleVector
+    100270: deer_Idle_leftLeg2_LowerLegBuffer
+    100272: deer_Idle_leftLeg2_LowerLegControl
+    100274: deer_Idle_leftLeg2_ParentConstrain
+    100276: deer_Idle_leftLeg2_ParentToUpperBody
+    100278: deer_Idle_leftLeg2_ParentToWorldNull
+    100280: deer_Idle_leftLeg2_poleVectCounterAim
+    100282: deer_Idle_leftLeg2_RigAim
+    100284: deer_Idle_leftLeg2_RigFoot
+    100286: deer_Idle_leftLeg2_Rigging
+    100288: deer_Idle_leftLeg2_RigJoints
+    100290: deer_Idle_leftLeg2_RigLowerLeg
+    100292: deer_Idle_leftLeg2_RigToe
+    100294: deer_Idle_leftLeg2_RigToe_end
+    100296: deer_Idle_leftLeg2_RigToeAim
+    100298: deer_Idle_leftLeg2_RigUpperLeg
+    100300: deer_Idle_leftLeg2_rotCluster
+    100302: deer_Idle_leftLeg2_RotIsolate
+    100304: deer_Idle_leftLeg2_RotUnIsolate
+    100306: deer_Idle_leftLeg2_stretchValues
+    100308: deer_Idle_leftLeg2_switchIKOut
+    100310: deer_Idle_leftLeg2_ToeBuffer
+    100312: deer_Idle_leftLeg2_ToeControl
+    100314: deer_Idle_leftLeg2_ToeIK
+    100316: deer_Idle_leftLeg2_ToeIKPoleVector
+    100318: deer_Idle_leftLeg2_ToeRaiser
+    100320: deer_Idle_leftLeg2_UpperLegBuffer
+    100322: deer_Idle_leftLeg2_UpperLegControl
+    100324: deer_Idle_rightLeg1_arrowClusters
+    100326: deer_Idle_rightLeg1_AttributesConnectToUpperBody
+    100328: deer_Idle_rightLeg1_AWUPAim
+    100330: deer_Idle_rightLeg1_AWUPLean
+    100332: deer_Idle_rightLeg1_AWUPTwist
+    100334: deer_Idle_rightLeg1_AWUPUnTwist
+    100336: deer_Idle_rightLeg1_cluster2Handle
+    100338: deer_Idle_rightLeg1_cluster3Handle
+    100340: deer_Idle_rightLeg1_cluster4Handle
+    100342: deer_Idle_rightLeg1_distanceDimension1
+    100344: deer_Idle_rightLeg1_DistanceMeasure1
+    100346: deer_Idle_rightLeg1_DistanceMeasure2
+    100348: deer_Idle_rightLeg1_FootArrowPoleVector
+    100350: deer_Idle_rightLeg1_FootBuffer
+    100352: deer_Idle_rightLeg1_FootControl
+    100354: deer_Idle_rightLeg1_footControlSizer
+    100356: deer_Idle_rightLeg1_FootIK
+    100358: deer_Idle_rightLeg1_FootIKPoleVector
+    100360: deer_Idle_rightLeg1_HeelRaiser
+    100362: deer_Idle_rightLeg1_highResJointAimer
+    100364: deer_Idle_rightLeg1_hipTwistAimer
+    100366: deer_Idle_rightLeg1_hipUpVect1
+    100368: deer_Idle_rightLeg1_hipUpVect2
+    100370: deer_Idle_rightLeg1_HiResFoot
+    100372: deer_Idle_rightLeg1_HiResLowerLeg
+    100374: deer_Idle_rightLeg1_HiResLowerLegTwist
+    100376: deer_Idle_rightLeg1_HiResToe
+    100378: deer_Idle_rightLeg1_HiResUpperLeg
+    100380: deer_Idle_rightLeg1_HiResUpperLegTwist
+    100382: deer_Idle_rightLeg1_IKHeelControl
+    100384: deer_Idle_rightLeg1_IKSwitchToePlacer
+    100386: deer_Idle_rightLeg1_KneeAimer
+    100388: deer_Idle_rightLeg1_KneeBuffer
+    100390: deer_Idle_rightLeg1_KneeCorrectForWindget
+    100392: deer_Idle_rightLeg1_KneeFixPosition
+    100394: deer_Idle_rightLeg1_KneeRotateXtra
+    100396: deer_Idle_rightLeg1_LegIKAimed
+    100398: deer_Idle_rightLeg1_LegIKBuffer
+    100400: deer_Idle_rightLeg1_LegIKControl
+    100402: deer_Idle_rightLeg1_LegIKKneeControl
+    100404: deer_Idle_rightLeg1_LegPoleVector
+    100406: deer_Idle_rightLeg1_LowerLegBuffer
+    100408: deer_Idle_rightLeg1_LowerLegControl
+    100410: deer_Idle_rightLeg1_ParentConstrain
+    100412: deer_Idle_rightLeg1_ParentToUpperBody
+    100414: deer_Idle_rightLeg1_ParentToWorldNull
+    100416: deer_Idle_rightLeg1_poleVectCounterAim
+    100418: deer_Idle_rightLeg1_RigAim
+    100420: deer_Idle_rightLeg1_RigFoot
+    100422: deer_Idle_rightLeg1_Rigging
+    100424: deer_Idle_rightLeg1_RigJoints
+    100426: deer_Idle_rightLeg1_RigLowerLeg
+    100428: deer_Idle_rightLeg1_RigToe
+    100430: deer_Idle_rightLeg1_RigToe_end
+    100432: deer_Idle_rightLeg1_RigToeAim
+    100434: deer_Idle_rightLeg1_RigUpperLeg
+    100436: deer_Idle_rightLeg1_rotCluster
+    100438: deer_Idle_rightLeg1_RotIsolate
+    100440: deer_Idle_rightLeg1_RotUnIsolate
+    100442: deer_Idle_rightLeg1_stretchValues
+    100444: deer_Idle_rightLeg1_switchIKOut
+    100446: deer_Idle_rightLeg1_ToeBuffer
+    100448: deer_Idle_rightLeg1_ToeControl
+    100450: deer_Idle_rightLeg1_ToeIK
+    100452: deer_Idle_rightLeg1_ToeIKPoleVector
+    100454: deer_Idle_rightLeg1_ToeRaiser
+    100456: deer_Idle_rightLeg1_UpperLegBuffer
+    100458: deer_Idle_rightLeg1_UpperLegControl
+    100460: deer_Idle_rightLeg2_arrowClusters
+    100462: deer_Idle_rightLeg2_AttributesConnectToUpperBody
+    100464: deer_Idle_rightLeg2_AWUPAim
+    100466: deer_Idle_rightLeg2_AWUPLean
+    100468: deer_Idle_rightLeg2_AWUPTwist
+    100470: deer_Idle_rightLeg2_AWUPUnTwist
+    100472: deer_Idle_rightLeg2_cluster2Handle
+    100474: deer_Idle_rightLeg2_cluster3Handle
+    100476: deer_Idle_rightLeg2_cluster4Handle
+    100478: deer_Idle_rightLeg2_distanceDimension1
+    100480: deer_Idle_rightLeg2_DistanceMeasure1
+    100482: deer_Idle_rightLeg2_DistanceMeasure2
+    100484: deer_Idle_rightLeg2_FootArrowPoleVector
+    100486: deer_Idle_rightLeg2_FootBuffer
+    100488: deer_Idle_rightLeg2_FootControl
+    100490: deer_Idle_rightLeg2_footControlSizer
+    100492: deer_Idle_rightLeg2_FootIK
+    100494: deer_Idle_rightLeg2_FootIKPoleVector
+    100496: deer_Idle_rightLeg2_HeelRaiser
+    100498: deer_Idle_rightLeg2_highResJointAimer
+    100500: deer_Idle_rightLeg2_hipTwistAimer
+    100502: deer_Idle_rightLeg2_hipUpVect1
+    100504: deer_Idle_rightLeg2_hipUpVect2
+    100506: deer_Idle_rightLeg2_HiResFoot
+    100508: deer_Idle_rightLeg2_HiResLowerLeg
+    100510: deer_Idle_rightLeg2_HiResLowerLegTwist
+    100512: deer_Idle_rightLeg2_HiResToe
+    100514: deer_Idle_rightLeg2_HiResUpperLeg
+    100516: deer_Idle_rightLeg2_HiResUpperLegTwist
+    100518: deer_Idle_rightLeg2_IKHeelControl
+    100520: deer_Idle_rightLeg2_IKSwitchToePlacer
+    100522: deer_Idle_rightLeg2_KneeAimer
+    100524: deer_Idle_rightLeg2_KneeBuffer
+    100526: deer_Idle_rightLeg2_KneeCorrectForWindget
+    100528: deer_Idle_rightLeg2_KneeFixPosition
+    100530: deer_Idle_rightLeg2_KneeRotateXtra
+    100532: deer_Idle_rightLeg2_LegIKAimed
+    100534: deer_Idle_rightLeg2_LegIKBuffer
+    100536: deer_Idle_rightLeg2_LegIKControl
+    100538: deer_Idle_rightLeg2_LegIKKneeControl
+    100540: deer_Idle_rightLeg2_LegPoleVector
+    100542: deer_Idle_rightLeg2_LowerLegBuffer
+    100544: deer_Idle_rightLeg2_LowerLegControl
+    100546: deer_Idle_rightLeg2_ParentConstrain
+    100548: deer_Idle_rightLeg2_ParentToUpperBody
+    100550: deer_Idle_rightLeg2_ParentToWorldNull
+    100552: deer_Idle_rightLeg2_poleVectCounterAim
+    100554: deer_Idle_rightLeg2_RigAim
+    100556: deer_Idle_rightLeg2_RigFoot
+    100558: deer_Idle_rightLeg2_Rigging
+    100560: deer_Idle_rightLeg2_RigJoints
+    100562: deer_Idle_rightLeg2_RigLowerLeg
+    100564: deer_Idle_rightLeg2_RigToe
+    100566: deer_Idle_rightLeg2_RigToe_end
+    100568: deer_Idle_rightLeg2_RigToeAim
+    100570: deer_Idle_rightLeg2_RigUpperLeg
+    100572: deer_Idle_rightLeg2_rotCluster
+    100574: deer_Idle_rightLeg2_RotIsolate
+    100576: deer_Idle_rightLeg2_RotUnIsolate
+    100578: deer_Idle_rightLeg2_stretchValues
+    100580: deer_Idle_rightLeg2_switchIKOut
+    100582: deer_Idle_rightLeg2_ToeBuffer
+    100584: deer_Idle_rightLeg2_ToeControl
+    100586: deer_Idle_rightLeg2_ToeIK
+    100588: deer_Idle_rightLeg2_ToeIKPoleVector
+    100590: deer_Idle_rightLeg2_ToeRaiser
+    100592: deer_Idle_rightLeg2_UpperLegBuffer
+    100594: deer_Idle_rightLeg2_UpperLegControl
+    100596: deer_Idle_spine1_AttributesConnectToUpperBody
+    100598: deer_Idle_spine1_cluster1Handle
+    100600: deer_Idle_spine1_cluster2Handle
+    100602: deer_Idle_spine1_cluster3Handle
+    100604: deer_Idle_spine1_cpConstraintPos_tangentConstraint1
+    100606: deer_Idle_spine1_cpConstraintPos_tangentConstraint2
+    100608: deer_Idle_spine1_Curve
+    100610: deer_Idle_spine1_Curve1
+    100612: deer_Idle_spine1_hipsControl
+    100614: deer_Idle_spine1_hipsIKBuffer
+    100616: deer_Idle_spine1_hipsIKControl
+    100618: deer_Idle_spine1_hiResHips
+    100620: deer_Idle_spine1_hiResSpine1
+    100622: deer_Idle_spine1_hiResSpine2
+    100624: deer_Idle_spine1_hiResSpine3
+    100626: deer_Idle_spine1_hiResSpine4
+    100628: deer_Idle_spine1_hiResSpine5
+    100630: deer_Idle_spine1_hiResWorkNodes
+    100632: deer_Idle_spine1_Loc1
+    100634: deer_Idle_spine1_Loc2
+    100636: deer_Idle_spine1_Loc3
+    100638: deer_Idle_spine1_locator2_tangentConstraint1
+    100640: deer_Idle_spine1_locator3
+    100642: deer_Idle_spine1_locator4
+    100644: deer_Idle_spine1_locator5
+    100646: deer_Idle_spine1_locator6
+    100648: deer_Idle_spine1_locator7
+    100650: deer_Idle_spine1_locator8
+    100652: deer_Idle_spine1_lowerJointRotated
+    100654: deer_Idle_spine1_lowerJointSkewed
+    100656: deer_Idle_spine1_lowerSpineBuffer
+    100658: deer_Idle_spine1_lowerSpineControl
+    100660: deer_Idle_spine1_middleSpineAim
+    100662: deer_Idle_spine1_middleSpineBuffer
+    100664: deer_Idle_spine1_middleSpineControl
+    100666: deer_Idle_spine1_middleSpineIKBuffer
+    100668: deer_Idle_spine1_middleSpineIKControl
+    100670: deer_Idle_spine1_middleSpineTransform
+    100672: deer_Idle_spine1_ParentConstrain
+    100674: deer_Idle_spine1_ParentToWorldNull
+    100676: deer_Idle_spine1_pelvisAttach
+    100678: deer_Idle_spine1_rig
+    100680: deer_Idle_spine1_torsoBuffer
+    100682: deer_Idle_spine1_torsoControl
+    100684: deer_Idle_spine1_torsoIKBuffer
+    100686: deer_Idle_spine1_torsoIKControl
+    100688: deer_Idle_spine1_Trans1
+    100690: deer_Idle_spine1_Trans2
+    100692: deer_Idle_spine1_Trans3
+    100694: deer_Idle_spine1_upperJointRotated
+    100696: deer_Idle_spine1_upperJointSkewed
+    100698: deer_Idle_spine1_UpVector
+    100700: deer_Idle_spine1_widgetAngles
+    100702: deer_Idle_tail1_aimNull1
+    100704: deer_Idle_tail1_aimNull2
+    100706: deer_Idle_tail1_aimNull3
+    100708: deer_Idle_tail1_aimNull4
+    100710: deer_Idle_tail1_aimNull5
+    100712: deer_Idle_tail1_aimNullsBuffer
+    100714: deer_Idle_tail1_AttributesConnectToUpperBody
+    100716: deer_Idle_tail1_controlCluster0Handle
+    100718: deer_Idle_tail1_controlCluster1Handle
+    100720: deer_Idle_tail1_controlCluster2Handle
+    100722: deer_Idle_tail1_controlCluster3Handle
+    100724: deer_Idle_tail1_controlCluster4Handle
+    100726: deer_Idle_tail1_controlCluster5Handle
+    100728: deer_Idle_tail1_controlCluster6Handle
+    100730: deer_Idle_tail1_controlCurve
+    100732: deer_Idle_tail1_controlNull1
+    100734: deer_Idle_tail1_controlNull2
+    100736: deer_Idle_tail1_controlNull3
+    100738: deer_Idle_tail1_Joint1
+    100740: deer_Idle_tail1_Joint2
+    100742: deer_Idle_tail1_Joint3
+    100744: deer_Idle_tail1_Joint4
+    100746: deer_Idle_tail1_Joint5
+    100748: deer_Idle_tail1_nurbsCluster0Handle
+    100750: deer_Idle_tail1_nurbsCluster1Handle
+    100752: deer_Idle_tail1_nurbsCluster2Handle
+    100754: deer_Idle_tail1_nurbsCluster3Handle
+    100756: deer_Idle_tail1_nurbsCluster4Handle
+    100758: deer_Idle_tail1_ParentConstrain
+    100760: deer_Idle_tail1_ParentToWorld
+    100762: deer_Idle_tail1_ParentToWorldNull
+    100764: deer_Idle_tail1_placementNull1
+    100766: deer_Idle_tail1_placementNull2
+    100768: deer_Idle_tail1_placementNull3
+    100770: deer_Idle_tail1_placementNull4
+    100772: deer_Idle_tail1_placementNull5
+    100774: deer_Idle_tail1_reverseAim
+    100776: deer_Idle_tail1_TailFKControl1
+    100778: deer_Idle_tail1_TailFKControl2
+    100780: deer_Idle_tail1_TailFKControl3
+    100782: deer_Idle_tail1_TailFKControlBuffer1
+    100784: deer_Idle_tail1_TailFKControlBuffer2
+    100786: deer_Idle_tail1_TailFKControlBuffer3
+    100788: deer_Idle_tail1_TailIKControl1
+    100790: deer_Idle_tail1_TailIKControl2
+    100792: deer_Idle_tail1_TailIKControl3
+    100794: deer_Idle_tail1_TailIKControlBuffer1
+    100796: deer_Idle_tail1_TailIKControlBuffer2
+    100798: deer_Idle_tail1_TailIKControlBuffer3
+    100800: deer_Idle_tail1_tangencyCurve
+    100802: deer_Idle_tail1_tangentBack2
+    100804: deer_Idle_tail1_tangentBack3
+    100806: deer_Idle_tail1_tangentBuffer1
+    100808: deer_Idle_tail1_tangentBuffer2
+    100810: deer_Idle_tail1_tangentBuffer3
+    100812: deer_Idle_tail1_tangentForward1
+    100814: deer_Idle_tail1_tangentForward2
+    100816: deer_Idle_tail1_twistDifference
+    100818: deer_Idle_TSMG_Cruft
+    100820: deer_Idle_TSMG_IK_Controllers
+    100822: deer_Idle_TSMG_Rig
+    100824: deer_Idle_TSMG_root
+    100826: deer_Idle_TSMG_upper_body
+    100828: deer_Idle_TSMG_upper_body_buffer
+    100830: deer_Idle_TSMGSceneData
+    100832: deer_Idle_TSMGWorldJoint
+    100834: deer
+    100836: head1_AttributesConnectToUpperBody
+    100838: head1_Buffer
+    100840: head1_cluster1Handle
+    100842: head1_cluster2Handle
+    100844: head1_Control
+    100846: head1_head
+    100848: head1_neck
+    100850: head1_neckAWUPAimer
+    100852: head1_neckAWUPLean
+    100854: head1_neckAWUPTwist
+    100856: head1_neckAWUPUnTwist
+    100858: head1_neckBuffer
+    100860: head1_neckControl
+    100862: head1_neckSpace
+    100864: head1_ParentConstrain
+    100866: head1_ParentToUpperBody
+    100868: head1_ParentToWorld
+    100870: head1_RotateToIsolate
+    100872: head1_rotIsolate
+    100874: joint1
+    100876: joint2
+    100878: leftLeg1_arrowClusters
+    100880: leftLeg1_AttributesConnectToUpperBody
+    100882: leftLeg1_AWUPAim
+    100884: leftLeg1_AWUPLean
+    100886: leftLeg1_AWUPTwist
+    100888: leftLeg1_AWUPUnTwist
+    100890: leftLeg1_cluster2Handle
+    100892: leftLeg1_cluster3Handle
+    100894: leftLeg1_cluster4Handle
+    100896: leftLeg1_distanceDimension1
+    100898: leftLeg1_DistanceMeasure1
+    100900: leftLeg1_DistanceMeasure2
+    100902: leftLeg1_FootArrowPoleVector
+    100904: leftLeg1_FootBuffer
+    100906: leftLeg1_FootControl
+    100908: leftLeg1_footControlSizer
+    100910: leftLeg1_FootIK
+    100912: leftLeg1_FootIKPoleVector
+    100914: leftLeg1_HeelRaiser
+    100916: leftLeg1_highResJointAimer
+    100918: leftLeg1_hipTwistAimer
+    100920: leftLeg1_hipUpVect1
+    100922: leftLeg1_hipUpVect2
+    100924: leftLeg1_HiResFoot
+    100926: leftLeg1_HiResLowerLeg
+    100928: leftLeg1_HiResLowerLegTwist
+    100930: leftLeg1_HiResToe
+    100932: leftLeg1_HiResUpperLeg
+    100934: leftLeg1_HiResUpperLegTwist
+    100936: leftLeg1_IKHeelControl
+    100938: leftLeg1_IKSwitchToePlacer
+    100940: leftLeg1_KneeAimer
+    100942: leftLeg1_KneeBuffer
+    100944: leftLeg1_KneeCorrectForWindget
+    100946: leftLeg1_KneeFixPosition
+    100948: leftLeg1_KneeRotateXtra
+    100950: leftLeg1_LegIKAimed
+    100952: leftLeg1_LegIKBuffer
+    100954: leftLeg1_LegIKControl
+    100956: leftLeg1_LegIKKneeControl
+    100958: leftLeg1_LegPoleVector
+    100960: leftLeg1_LowerLegBuffer
+    100962: leftLeg1_LowerLegControl
+    100964: leftLeg1_ParentConstrain
+    100966: leftLeg1_ParentToUpperBody
+    100968: leftLeg1_ParentToWorldNull
+    100970: leftLeg1_poleVectCounterAim
+    100972: leftLeg1_RigAim
+    100974: leftLeg1_RigFoot
+    100976: leftLeg1_Rigging
+    100978: leftLeg1_RigJoints
+    100980: leftLeg1_RigLowerLeg
+    100982: leftLeg1_RigToe
+    100984: leftLeg1_RigToe_end
+    100986: leftLeg1_RigToeAim
+    100988: leftLeg1_RigUpperLeg
+    100990: leftLeg1_rotCluster
+    100992: leftLeg1_RotIsolate
+    100994: leftLeg1_RotUnIsolate
+    100996: leftLeg1_stretchValues
+    100998: leftLeg1_switchIKOut
+    101000: leftLeg1_ToeBuffer
+    101002: leftLeg1_ToeControl
+    101004: leftLeg1_ToeIK
+    101006: leftLeg1_ToeIKPoleVector
+    101008: leftLeg1_ToeRaiser
+    101010: leftLeg1_UpperLegBuffer
+    101012: leftLeg1_UpperLegControl
+    101014: leftLeg2_arrowClusters
+    101016: leftLeg2_AttributesConnectToUpperBody
+    101018: leftLeg2_AWUPAim
+    101020: leftLeg2_AWUPLean
+    101022: leftLeg2_AWUPTwist
+    101024: leftLeg2_AWUPUnTwist
+    101026: leftLeg2_cluster2Handle
+    101028: leftLeg2_cluster3Handle
+    101030: leftLeg2_cluster4Handle
+    101032: leftLeg2_distanceDimension1
+    101034: leftLeg2_DistanceMeasure1
+    101036: leftLeg2_DistanceMeasure2
+    101038: leftLeg2_FootArrowPoleVector
+    101040: leftLeg2_FootBuffer
+    101042: leftLeg2_FootControl
+    101044: leftLeg2_footControlSizer
+    101046: leftLeg2_FootIK
+    101048: leftLeg2_FootIKPoleVector
+    101050: leftLeg2_HeelRaiser
+    101052: leftLeg2_highResJointAimer
+    101054: leftLeg2_hipTwistAimer
+    101056: leftLeg2_hipUpVect1
+    101058: leftLeg2_hipUpVect2
+    101060: leftLeg2_HiResFoot
+    101062: leftLeg2_HiResLowerLeg
+    101064: leftLeg2_HiResLowerLegTwist
+    101066: leftLeg2_HiResToe
+    101068: leftLeg2_HiResUpperLeg
+    101070: leftLeg2_HiResUpperLegTwist
+    101072: leftLeg2_IKHeelControl
+    101074: leftLeg2_IKSwitchToePlacer
+    101076: leftLeg2_KneeAimer
+    101078: leftLeg2_KneeBuffer
+    101080: leftLeg2_KneeCorrectForWindget
+    101082: leftLeg2_KneeFixPosition
+    101084: leftLeg2_KneeRotateXtra
+    101086: leftLeg2_LegIKAimed
+    101088: leftLeg2_LegIKBuffer
+    101090: leftLeg2_LegIKControl
+    101092: leftLeg2_LegIKKneeControl
+    101094: leftLeg2_LegPoleVector
+    101096: leftLeg2_LowerLegBuffer
+    101098: leftLeg2_LowerLegControl
+    101100: leftLeg2_ParentConstrain
+    101102: leftLeg2_ParentToUpperBody
+    101104: leftLeg2_ParentToWorldNull
+    101106: leftLeg2_poleVectCounterAim
+    101108: leftLeg2_RigAim
+    101110: leftLeg2_RigFoot
+    101112: leftLeg2_Rigging
+    101114: leftLeg2_RigJoints
+    101116: leftLeg2_RigLowerLeg
+    101118: leftLeg2_RigToe
+    101120: leftLeg2_RigToe_end
+    101122: leftLeg2_RigToeAim
+    101124: leftLeg2_RigUpperLeg
+    101126: leftLeg2_rotCluster
+    101128: leftLeg2_RotIsolate
+    101130: leftLeg2_RotUnIsolate
+    101132: leftLeg2_stretchValues
+    101134: leftLeg2_switchIKOut
+    101136: leftLeg2_ToeBuffer
+    101138: leftLeg2_ToeControl
+    101140: leftLeg2_ToeIK
+    101142: leftLeg2_ToeIKPoleVector
+    101144: leftLeg2_ToeRaiser
+    101146: leftLeg2_UpperLegBuffer
+    101148: leftLeg2_UpperLegControl
+    101150: rightLeg1_arrowClusters
+    101152: rightLeg1_AttributesConnectToUpperBody
+    101154: rightLeg1_AWUPAim
+    101156: rightLeg1_AWUPLean
+    101158: rightLeg1_AWUPTwist
+    101160: rightLeg1_AWUPUnTwist
+    101162: rightLeg1_cluster2Handle
+    101164: rightLeg1_cluster3Handle
+    101166: rightLeg1_cluster4Handle
+    101168: rightLeg1_distanceDimension1
+    101170: rightLeg1_DistanceMeasure1
+    101172: rightLeg1_DistanceMeasure2
+    101174: rightLeg1_FootArrowPoleVector
+    101176: rightLeg1_FootBuffer
+    101178: rightLeg1_FootControl
+    101180: rightLeg1_footControlSizer
+    101182: rightLeg1_FootIK
+    101184: rightLeg1_FootIKPoleVector
+    101186: rightLeg1_HeelRaiser
+    101188: rightLeg1_highResJointAimer
+    101190: rightLeg1_hipTwistAimer
+    101192: rightLeg1_hipUpVect1
+    101194: rightLeg1_hipUpVect2
+    101196: rightLeg1_HiResFoot
+    101198: rightLeg1_HiResLowerLeg
+    101200: rightLeg1_HiResLowerLegTwist
+    101202: rightLeg1_HiResToe
+    101204: rightLeg1_HiResUpperLeg
+    101206: rightLeg1_HiResUpperLegTwist
+    101208: rightLeg1_IKHeelControl
+    101210: rightLeg1_IKSwitchToePlacer
+    101212: rightLeg1_KneeAimer
+    101214: rightLeg1_KneeBuffer
+    101216: rightLeg1_KneeCorrectForWindget
+    101218: rightLeg1_KneeFixPosition
+    101220: rightLeg1_KneeRotateXtra
+    101222: rightLeg1_LegIKAimed
+    101224: rightLeg1_LegIKBuffer
+    101226: rightLeg1_LegIKControl
+    101228: rightLeg1_LegIKKneeControl
+    101230: rightLeg1_LegPoleVector
+    101232: rightLeg1_LowerLegBuffer
+    101234: rightLeg1_LowerLegControl
+    101236: rightLeg1_ParentConstrain
+    101238: rightLeg1_ParentToUpperBody
+    101240: rightLeg1_ParentToWorldNull
+    101242: rightLeg1_poleVectCounterAim
+    101244: rightLeg1_RigAim
+    101246: rightLeg1_RigFoot
+    101248: rightLeg1_Rigging
+    101250: rightLeg1_RigJoints
+    101252: rightLeg1_RigLowerLeg
+    101254: rightLeg1_RigToe
+    101256: rightLeg1_RigToe_end
+    101258: rightLeg1_RigToeAim
+    101260: rightLeg1_RigUpperLeg
+    101262: rightLeg1_rotCluster
+    101264: rightLeg1_RotIsolate
+    101266: rightLeg1_RotUnIsolate
+    101268: rightLeg1_stretchValues
+    101270: rightLeg1_switchIKOut
+    101272: rightLeg1_ToeBuffer
+    101274: rightLeg1_ToeControl
+    101276: rightLeg1_ToeIK
+    101278: rightLeg1_ToeIKPoleVector
+    101280: rightLeg1_ToeRaiser
+    101282: rightLeg1_UpperLegBuffer
+    101284: rightLeg1_UpperLegControl
+    101286: rightLeg2_arrowClusters
+    101288: rightLeg2_AttributesConnectToUpperBody
+    101290: rightLeg2_AWUPAim
+    101292: rightLeg2_AWUPLean
+    101294: rightLeg2_AWUPTwist
+    101296: rightLeg2_AWUPUnTwist
+    101298: rightLeg2_cluster2Handle
+    101300: rightLeg2_cluster3Handle
+    101302: rightLeg2_cluster4Handle
+    101304: rightLeg2_distanceDimension1
+    101306: rightLeg2_DistanceMeasure1
+    101308: rightLeg2_DistanceMeasure2
+    101310: rightLeg2_FootArrowPoleVector
+    101312: rightLeg2_FootBuffer
+    101314: rightLeg2_FootControl
+    101316: rightLeg2_footControlSizer
+    101318: rightLeg2_FootIK
+    101320: rightLeg2_FootIKPoleVector
+    101322: rightLeg2_HeelRaiser
+    101324: rightLeg2_highResJointAimer
+    101326: rightLeg2_hipTwistAimer
+    101328: rightLeg2_hipUpVect1
+    101330: rightLeg2_hipUpVect2
+    101332: rightLeg2_HiResFoot
+    101334: rightLeg2_HiResLowerLeg
+    101336: rightLeg2_HiResLowerLegTwist
+    101338: rightLeg2_HiResToe
+    101340: rightLeg2_HiResUpperLeg
+    101342: rightLeg2_HiResUpperLegTwist
+    101344: rightLeg2_IKHeelControl
+    101346: rightLeg2_IKSwitchToePlacer
+    101348: rightLeg2_KneeAimer
+    101350: rightLeg2_KneeBuffer
+    101352: rightLeg2_KneeCorrectForWindget
+    101354: rightLeg2_KneeFixPosition
+    101356: rightLeg2_KneeRotateXtra
+    101358: rightLeg2_LegIKAimed
+    101360: rightLeg2_LegIKBuffer
+    101362: rightLeg2_LegIKControl
+    101364: rightLeg2_LegIKKneeControl
+    101366: rightLeg2_LegPoleVector
+    101368: rightLeg2_LowerLegBuffer
+    101370: rightLeg2_LowerLegControl
+    101372: rightLeg2_ParentConstrain
+    101374: rightLeg2_ParentToUpperBody
+    101376: rightLeg2_ParentToWorldNull
+    101378: rightLeg2_poleVectCounterAim
+    101380: rightLeg2_RigAim
+    101382: rightLeg2_RigFoot
+    101384: rightLeg2_Rigging
+    101386: rightLeg2_RigJoints
+    101388: rightLeg2_RigLowerLeg
+    101390: rightLeg2_RigToe
+    101392: rightLeg2_RigToe_end
+    101394: rightLeg2_RigToeAim
+    101396: rightLeg2_RigUpperLeg
+    101398: rightLeg2_rotCluster
+    101400: rightLeg2_RotIsolate
+    101402: rightLeg2_RotUnIsolate
+    101404: rightLeg2_stretchValues
+    101406: rightLeg2_switchIKOut
+    101408: rightLeg2_ToeBuffer
+    101410: rightLeg2_ToeControl
+    101412: rightLeg2_ToeIK
+    101414: rightLeg2_ToeIKPoleVector
+    101416: rightLeg2_ToeRaiser
+    101418: rightLeg2_UpperLegBuffer
+    101420: rightLeg2_UpperLegControl
+    101422: spine1_AttributesConnectToUpperBody
+    101424: spine1_cluster1Handle
+    101426: spine1_cluster2Handle
+    101428: spine1_cluster3Handle
+    101430: spine1_cpConstraintPos_tangentConstraint1
+    101432: spine1_cpConstraintPos_tangentConstraint2
+    101434: spine1_Curve
+    101436: spine1_Curve1
+    101438: spine1_hipsControl
+    101440: spine1_hipsIKBuffer
+    101442: spine1_hipsIKControl
+    101444: spine1_hiResHips
+    101446: spine1_hiResSpine1
+    101448: spine1_hiResSpine2
+    101450: spine1_hiResSpine3
+    101452: spine1_hiResSpine4
+    101454: spine1_hiResSpine5
+    101456: spine1_hiResWorkNodes
+    101458: spine1_Loc1
+    101460: spine1_Loc2
+    101462: spine1_Loc3
+    101464: spine1_locator2_tangentConstraint1
+    101466: spine1_locator3
+    101468: spine1_locator4
+    101470: spine1_locator5
+    101472: spine1_locator6
+    101474: spine1_locator7
+    101476: spine1_locator8
+    101478: spine1_lowerJointRotated
+    101480: spine1_lowerJointSkewed
+    101482: spine1_lowerSpineBuffer
+    101484: spine1_lowerSpineControl
+    101486: spine1_middleSpineAim
+    101488: spine1_middleSpineBuffer
+    101490: spine1_middleSpineControl
+    101492: spine1_middleSpineIKBuffer
+    101494: spine1_middleSpineIKControl
+    101496: spine1_middleSpineTransform
+    101498: spine1_ParentConstrain
+    101500: spine1_ParentToWorldNull
+    101502: spine1_pelvisAttach
+    101504: spine1_rig
+    101506: spine1_torsoBuffer
+    101508: spine1_torsoControl
+    101510: spine1_torsoIKBuffer
+    101512: spine1_torsoIKControl
+    101514: spine1_Trans1
+    101516: spine1_Trans2
+    101518: spine1_Trans3
+    101520: spine1_upperJointRotated
+    101522: spine1_upperJointSkewed
+    101524: spine1_UpVector
+    101526: spine1_widgetAngles
+    101528: tail1_aimNull1
+    101530: tail1_aimNull2
+    101532: tail1_aimNull3
+    101534: tail1_aimNull4
+    101536: tail1_aimNull5
+    101538: tail1_aimNullsBuffer
+    101540: tail1_AttributesConnectToUpperBody
+    101542: tail1_controlCluster0Handle
+    101544: tail1_controlCluster1Handle
+    101546: tail1_controlCluster2Handle
+    101548: tail1_controlCluster3Handle
+    101550: tail1_controlCluster4Handle
+    101552: tail1_controlCluster5Handle
+    101554: tail1_controlCluster6Handle
+    101556: tail1_controlCurve
+    101558: tail1_controlNull1
+    101560: tail1_controlNull2
+    101562: tail1_controlNull3
+    101564: tail1_Joint1
+    101566: tail1_Joint2
+    101568: tail1_Joint3
+    101570: tail1_Joint4
+    101572: tail1_Joint5
+    101574: tail1_nurbsCluster0Handle
+    101576: tail1_nurbsCluster1Handle
+    101578: tail1_nurbsCluster2Handle
+    101580: tail1_nurbsCluster3Handle
+    101582: tail1_nurbsCluster4Handle
+    101584: tail1_ParentConstrain
+    101586: tail1_ParentToWorld
+    101588: tail1_ParentToWorldNull
+    101590: tail1_placementNull1
+    101592: tail1_placementNull2
+    101594: tail1_placementNull3
+    101596: tail1_placementNull4
+    101598: tail1_placementNull5
+    101600: tail1_reverseAim
+    101602: tail1_TailFKControl1
+    101604: tail1_TailFKControl2
+    101606: tail1_TailFKControl3
+    101608: tail1_TailFKControlBuffer1
+    101610: tail1_TailFKControlBuffer2
+    101612: tail1_TailFKControlBuffer3
+    101614: tail1_TailIKControl1
+    101616: tail1_TailIKControl2
+    101618: tail1_TailIKControl3
+    101620: tail1_TailIKControlBuffer1
+    101622: tail1_TailIKControlBuffer2
+    101624: tail1_TailIKControlBuffer3
+    101626: tail1_tangencyCurve
+    101628: tail1_tangentBack2
+    101630: tail1_tangentBack3
+    101632: tail1_tangentBuffer1
+    101634: tail1_tangentBuffer2
+    101636: tail1_tangentBuffer3
+    101638: tail1_tangentForward1
+    101640: tail1_tangentForward2
+    101642: tail1_twistDifference
+    101644: TSMG_Cruft
+    101646: TSMG_IK_Controllers
+    101648: TSMG_Rig
+    101650: TSMG_root
+    101652: TSMG_upper_body
+    101654: TSMG_upper_body_buffer
+    101656: TSMGSceneData
+    101658: TSMGWorldJoint
+    400000: //RootNode
+    400002: deer_Idle_ambientLight1
+    400004: deer_Idle_deer
+    400006: deer_Idle_directionalLight1
+    400008: deer_Idle_directionalLight2
+    400010: deer_Idle_head1_AttributesConnectToUpperBody
+    400012: deer_Idle_head1_Buffer
+    400014: deer_Idle_head1_cluster1Handle
+    400016: deer_Idle_head1_cluster2Handle
+    400018: deer_Idle_head1_Control
+    400020: deer_Idle_head1_head
+    400022: deer_Idle_head1_neck
+    400024: deer_Idle_head1_neckAWUPAimer
+    400026: deer_Idle_head1_neckAWUPLean
+    400028: deer_Idle_head1_neckAWUPTwist
+    400030: deer_Idle_head1_neckAWUPUnTwist
+    400032: deer_Idle_head1_neckBuffer
+    400034: deer_Idle_head1_neckControl
+    400036: deer_Idle_head1_neckSpace
+    400038: deer_Idle_head1_ParentConstrain
+    400040: deer_Idle_head1_ParentToUpperBody
+    400042: deer_Idle_head1_ParentToWorld
+    400044: deer_Idle_head1_RotateToIsolate
+    400046: deer_Idle_head1_rotIsolate
+    400048: deer_Idle_joint1
+    400050: deer_Idle_joint2
+    400052: deer_Idle_leftLeg1_arrowClusters
+    400054: deer_Idle_leftLeg1_AttributesConnectToUpperBody
+    400056: deer_Idle_leftLeg1_AWUPAim
+    400058: deer_Idle_leftLeg1_AWUPLean
+    400060: deer_Idle_leftLeg1_AWUPTwist
+    400062: deer_Idle_leftLeg1_AWUPUnTwist
+    400064: deer_Idle_leftLeg1_cluster2Handle
+    400066: deer_Idle_leftLeg1_cluster3Handle
+    400068: deer_Idle_leftLeg1_cluster4Handle
+    400070: deer_Idle_leftLeg1_distanceDimension1
+    400072: deer_Idle_leftLeg1_DistanceMeasure1
+    400074: deer_Idle_leftLeg1_DistanceMeasure2
+    400076: deer_Idle_leftLeg1_FootArrowPoleVector
+    400078: deer_Idle_leftLeg1_FootBuffer
+    400080: deer_Idle_leftLeg1_FootControl
+    400082: deer_Idle_leftLeg1_footControlSizer
+    400084: deer_Idle_leftLeg1_FootIK
+    400086: deer_Idle_leftLeg1_FootIKPoleVector
+    400088: deer_Idle_leftLeg1_HeelRaiser
+    400090: deer_Idle_leftLeg1_highResJointAimer
+    400092: deer_Idle_leftLeg1_hipTwistAimer
+    400094: deer_Idle_leftLeg1_hipUpVect1
+    400096: deer_Idle_leftLeg1_hipUpVect2
+    400098: deer_Idle_leftLeg1_HiResFoot
+    400100: deer_Idle_leftLeg1_HiResLowerLeg
+    400102: deer_Idle_leftLeg1_HiResLowerLegTwist
+    400104: deer_Idle_leftLeg1_HiResToe
+    400106: deer_Idle_leftLeg1_HiResUpperLeg
+    400108: deer_Idle_leftLeg1_HiResUpperLegTwist
+    400110: deer_Idle_leftLeg1_IKHeelControl
+    400112: deer_Idle_leftLeg1_IKSwitchToePlacer
+    400114: deer_Idle_leftLeg1_KneeAimer
+    400116: deer_Idle_leftLeg1_KneeBuffer
+    400118: deer_Idle_leftLeg1_KneeCorrectForWindget
+    400120: deer_Idle_leftLeg1_KneeFixPosition
+    400122: deer_Idle_leftLeg1_KneeRotateXtra
+    400124: deer_Idle_leftLeg1_LegIKAimed
+    400126: deer_Idle_leftLeg1_LegIKBuffer
+    400128: deer_Idle_leftLeg1_LegIKControl
+    400130: deer_Idle_leftLeg1_LegIKKneeControl
+    400132: deer_Idle_leftLeg1_LegPoleVector
+    400134: deer_Idle_leftLeg1_LowerLegBuffer
+    400136: deer_Idle_leftLeg1_LowerLegControl
+    400138: deer_Idle_leftLeg1_ParentConstrain
+    400140: deer_Idle_leftLeg1_ParentToUpperBody
+    400142: deer_Idle_leftLeg1_ParentToWorldNull
+    400144: deer_Idle_leftLeg1_poleVectCounterAim
+    400146: deer_Idle_leftLeg1_RigAim
+    400148: deer_Idle_leftLeg1_RigFoot
+    400150: deer_Idle_leftLeg1_Rigging
+    400152: deer_Idle_leftLeg1_RigJoints
+    400154: deer_Idle_leftLeg1_RigLowerLeg
+    400156: deer_Idle_leftLeg1_RigToe
+    400158: deer_Idle_leftLeg1_RigToe_end
+    400160: deer_Idle_leftLeg1_RigToeAim
+    400162: deer_Idle_leftLeg1_RigUpperLeg
+    400164: deer_Idle_leftLeg1_rotCluster
+    400166: deer_Idle_leftLeg1_RotIsolate
+    400168: deer_Idle_leftLeg1_RotUnIsolate
+    400170: deer_Idle_leftLeg1_stretchValues
+    400172: deer_Idle_leftLeg1_switchIKOut
+    400174: deer_Idle_leftLeg1_ToeBuffer
+    400176: deer_Idle_leftLeg1_ToeControl
+    400178: deer_Idle_leftLeg1_ToeIK
+    400180: deer_Idle_leftLeg1_ToeIKPoleVector
+    400182: deer_Idle_leftLeg1_ToeRaiser
+    400184: deer_Idle_leftLeg1_UpperLegBuffer
+    400186: deer_Idle_leftLeg1_UpperLegControl
+    400188: deer_Idle_leftLeg2_arrowClusters
+    400190: deer_Idle_leftLeg2_AttributesConnectToUpperBody
+    400192: deer_Idle_leftLeg2_AWUPAim
+    400194: deer_Idle_leftLeg2_AWUPLean
+    400196: deer_Idle_leftLeg2_AWUPTwist
+    400198: deer_Idle_leftLeg2_AWUPUnTwist
+    400200: deer_Idle_leftLeg2_cluster2Handle
+    400202: deer_Idle_leftLeg2_cluster3Handle
+    400204: deer_Idle_leftLeg2_cluster4Handle
+    400206: deer_Idle_leftLeg2_distanceDimension1
+    400208: deer_Idle_leftLeg2_DistanceMeasure1
+    400210: deer_Idle_leftLeg2_DistanceMeasure2
+    400212: deer_Idle_leftLeg2_FootArrowPoleVector
+    400214: deer_Idle_leftLeg2_FootBuffer
+    400216: deer_Idle_leftLeg2_FootControl
+    400218: deer_Idle_leftLeg2_footControlSizer
+    400220: deer_Idle_leftLeg2_FootIK
+    400222: deer_Idle_leftLeg2_FootIKPoleVector
+    400224: deer_Idle_leftLeg2_HeelRaiser
+    400226: deer_Idle_leftLeg2_highResJointAimer
+    400228: deer_Idle_leftLeg2_hipTwistAimer
+    400230: deer_Idle_leftLeg2_hipUpVect1
+    400232: deer_Idle_leftLeg2_hipUpVect2
+    400234: deer_Idle_leftLeg2_HiResFoot
+    400236: deer_Idle_leftLeg2_HiResLowerLeg
+    400238: deer_Idle_leftLeg2_HiResLowerLegTwist
+    400240: deer_Idle_leftLeg2_HiResToe
+    400242: deer_Idle_leftLeg2_HiResUpperLeg
+    400244: deer_Idle_leftLeg2_HiResUpperLegTwist
+    400246: deer_Idle_leftLeg2_IKHeelControl
+    400248: deer_Idle_leftLeg2_IKSwitchToePlacer
+    400250: deer_Idle_leftLeg2_KneeAimer
+    400252: deer_Idle_leftLeg2_KneeBuffer
+    400254: deer_Idle_leftLeg2_KneeCorrectForWindget
+    400256: deer_Idle_leftLeg2_KneeFixPosition
+    400258: deer_Idle_leftLeg2_KneeRotateXtra
+    400260: deer_Idle_leftLeg2_LegIKAimed
+    400262: deer_Idle_leftLeg2_LegIKBuffer
+    400264: deer_Idle_leftLeg2_LegIKControl
+    400266: deer_Idle_leftLeg2_LegIKKneeControl
+    400268: deer_Idle_leftLeg2_LegPoleVector
+    400270: deer_Idle_leftLeg2_LowerLegBuffer
+    400272: deer_Idle_leftLeg2_LowerLegControl
+    400274: deer_Idle_leftLeg2_ParentConstrain
+    400276: deer_Idle_leftLeg2_ParentToUpperBody
+    400278: deer_Idle_leftLeg2_ParentToWorldNull
+    400280: deer_Idle_leftLeg2_poleVectCounterAim
+    400282: deer_Idle_leftLeg2_RigAim
+    400284: deer_Idle_leftLeg2_RigFoot
+    400286: deer_Idle_leftLeg2_Rigging
+    400288: deer_Idle_leftLeg2_RigJoints
+    400290: deer_Idle_leftLeg2_RigLowerLeg
+    400292: deer_Idle_leftLeg2_RigToe
+    400294: deer_Idle_leftLeg2_RigToe_end
+    400296: deer_Idle_leftLeg2_RigToeAim
+    400298: deer_Idle_leftLeg2_RigUpperLeg
+    400300: deer_Idle_leftLeg2_rotCluster
+    400302: deer_Idle_leftLeg2_RotIsolate
+    400304: deer_Idle_leftLeg2_RotUnIsolate
+    400306: deer_Idle_leftLeg2_stretchValues
+    400308: deer_Idle_leftLeg2_switchIKOut
+    400310: deer_Idle_leftLeg2_ToeBuffer
+    400312: deer_Idle_leftLeg2_ToeControl
+    400314: deer_Idle_leftLeg2_ToeIK
+    400316: deer_Idle_leftLeg2_ToeIKPoleVector
+    400318: deer_Idle_leftLeg2_ToeRaiser
+    400320: deer_Idle_leftLeg2_UpperLegBuffer
+    400322: deer_Idle_leftLeg2_UpperLegControl
+    400324: deer_Idle_rightLeg1_arrowClusters
+    400326: deer_Idle_rightLeg1_AttributesConnectToUpperBody
+    400328: deer_Idle_rightLeg1_AWUPAim
+    400330: deer_Idle_rightLeg1_AWUPLean
+    400332: deer_Idle_rightLeg1_AWUPTwist
+    400334: deer_Idle_rightLeg1_AWUPUnTwist
+    400336: deer_Idle_rightLeg1_cluster2Handle
+    400338: deer_Idle_rightLeg1_cluster3Handle
+    400340: deer_Idle_rightLeg1_cluster4Handle
+    400342: deer_Idle_rightLeg1_distanceDimension1
+    400344: deer_Idle_rightLeg1_DistanceMeasure1
+    400346: deer_Idle_rightLeg1_DistanceMeasure2
+    400348: deer_Idle_rightLeg1_FootArrowPoleVector
+    400350: deer_Idle_rightLeg1_FootBuffer
+    400352: deer_Idle_rightLeg1_FootControl
+    400354: deer_Idle_rightLeg1_footControlSizer
+    400356: deer_Idle_rightLeg1_FootIK
+    400358: deer_Idle_rightLeg1_FootIKPoleVector
+    400360: deer_Idle_rightLeg1_HeelRaiser
+    400362: deer_Idle_rightLeg1_highResJointAimer
+    400364: deer_Idle_rightLeg1_hipTwistAimer
+    400366: deer_Idle_rightLeg1_hipUpVect1
+    400368: deer_Idle_rightLeg1_hipUpVect2
+    400370: deer_Idle_rightLeg1_HiResFoot
+    400372: deer_Idle_rightLeg1_HiResLowerLeg
+    400374: deer_Idle_rightLeg1_HiResLowerLegTwist
+    400376: deer_Idle_rightLeg1_HiResToe
+    400378: deer_Idle_rightLeg1_HiResUpperLeg
+    400380: deer_Idle_rightLeg1_HiResUpperLegTwist
+    400382: deer_Idle_rightLeg1_IKHeelControl
+    400384: deer_Idle_rightLeg1_IKSwitchToePlacer
+    400386: deer_Idle_rightLeg1_KneeAimer
+    400388: deer_Idle_rightLeg1_KneeBuffer
+    400390: deer_Idle_rightLeg1_KneeCorrectForWindget
+    400392: deer_Idle_rightLeg1_KneeFixPosition
+    400394: deer_Idle_rightLeg1_KneeRotateXtra
+    400396: deer_Idle_rightLeg1_LegIKAimed
+    400398: deer_Idle_rightLeg1_LegIKBuffer
+    400400: deer_Idle_rightLeg1_LegIKControl
+    400402: deer_Idle_rightLeg1_LegIKKneeControl
+    400404: deer_Idle_rightLeg1_LegPoleVector
+    400406: deer_Idle_rightLeg1_LowerLegBuffer
+    400408: deer_Idle_rightLeg1_LowerLegControl
+    400410: deer_Idle_rightLeg1_ParentConstrain
+    400412: deer_Idle_rightLeg1_ParentToUpperBody
+    400414: deer_Idle_rightLeg1_ParentToWorldNull
+    400416: deer_Idle_rightLeg1_poleVectCounterAim
+    400418: deer_Idle_rightLeg1_RigAim
+    400420: deer_Idle_rightLeg1_RigFoot
+    400422: deer_Idle_rightLeg1_Rigging
+    400424: deer_Idle_rightLeg1_RigJoints
+    400426: deer_Idle_rightLeg1_RigLowerLeg
+    400428: deer_Idle_rightLeg1_RigToe
+    400430: deer_Idle_rightLeg1_RigToe_end
+    400432: deer_Idle_rightLeg1_RigToeAim
+    400434: deer_Idle_rightLeg1_RigUpperLeg
+    400436: deer_Idle_rightLeg1_rotCluster
+    400438: deer_Idle_rightLeg1_RotIsolate
+    400440: deer_Idle_rightLeg1_RotUnIsolate
+    400442: deer_Idle_rightLeg1_stretchValues
+    400444: deer_Idle_rightLeg1_switchIKOut
+    400446: deer_Idle_rightLeg1_ToeBuffer
+    400448: deer_Idle_rightLeg1_ToeControl
+    400450: deer_Idle_rightLeg1_ToeIK
+    400452: deer_Idle_rightLeg1_ToeIKPoleVector
+    400454: deer_Idle_rightLeg1_ToeRaiser
+    400456: deer_Idle_rightLeg1_UpperLegBuffer
+    400458: deer_Idle_rightLeg1_UpperLegControl
+    400460: deer_Idle_rightLeg2_arrowClusters
+    400462: deer_Idle_rightLeg2_AttributesConnectToUpperBody
+    400464: deer_Idle_rightLeg2_AWUPAim
+    400466: deer_Idle_rightLeg2_AWUPLean
+    400468: deer_Idle_rightLeg2_AWUPTwist
+    400470: deer_Idle_rightLeg2_AWUPUnTwist
+    400472: deer_Idle_rightLeg2_cluster2Handle
+    400474: deer_Idle_rightLeg2_cluster3Handle
+    400476: deer_Idle_rightLeg2_cluster4Handle
+    400478: deer_Idle_rightLeg2_distanceDimension1
+    400480: deer_Idle_rightLeg2_DistanceMeasure1
+    400482: deer_Idle_rightLeg2_DistanceMeasure2
+    400484: deer_Idle_rightLeg2_FootArrowPoleVector
+    400486: deer_Idle_rightLeg2_FootBuffer
+    400488: deer_Idle_rightLeg2_FootControl
+    400490: deer_Idle_rightLeg2_footControlSizer
+    400492: deer_Idle_rightLeg2_FootIK
+    400494: deer_Idle_rightLeg2_FootIKPoleVector
+    400496: deer_Idle_rightLeg2_HeelRaiser
+    400498: deer_Idle_rightLeg2_highResJointAimer
+    400500: deer_Idle_rightLeg2_hipTwistAimer
+    400502: deer_Idle_rightLeg2_hipUpVect1
+    400504: deer_Idle_rightLeg2_hipUpVect2
+    400506: deer_Idle_rightLeg2_HiResFoot
+    400508: deer_Idle_rightLeg2_HiResLowerLeg
+    400510: deer_Idle_rightLeg2_HiResLowerLegTwist
+    400512: deer_Idle_rightLeg2_HiResToe
+    400514: deer_Idle_rightLeg2_HiResUpperLeg
+    400516: deer_Idle_rightLeg2_HiResUpperLegTwist
+    400518: deer_Idle_rightLeg2_IKHeelControl
+    400520: deer_Idle_rightLeg2_IKSwitchToePlacer
+    400522: deer_Idle_rightLeg2_KneeAimer
+    400524: deer_Idle_rightLeg2_KneeBuffer
+    400526: deer_Idle_rightLeg2_KneeCorrectForWindget
+    400528: deer_Idle_rightLeg2_KneeFixPosition
+    400530: deer_Idle_rightLeg2_KneeRotateXtra
+    400532: deer_Idle_rightLeg2_LegIKAimed
+    400534: deer_Idle_rightLeg2_LegIKBuffer
+    400536: deer_Idle_rightLeg2_LegIKControl
+    400538: deer_Idle_rightLeg2_LegIKKneeControl
+    400540: deer_Idle_rightLeg2_LegPoleVector
+    400542: deer_Idle_rightLeg2_LowerLegBuffer
+    400544: deer_Idle_rightLeg2_LowerLegControl
+    400546: deer_Idle_rightLeg2_ParentConstrain
+    400548: deer_Idle_rightLeg2_ParentToUpperBody
+    400550: deer_Idle_rightLeg2_ParentToWorldNull
+    400552: deer_Idle_rightLeg2_poleVectCounterAim
+    400554: deer_Idle_rightLeg2_RigAim
+    400556: deer_Idle_rightLeg2_RigFoot
+    400558: deer_Idle_rightLeg2_Rigging
+    400560: deer_Idle_rightLeg2_RigJoints
+    400562: deer_Idle_rightLeg2_RigLowerLeg
+    400564: deer_Idle_rightLeg2_RigToe
+    400566: deer_Idle_rightLeg2_RigToe_end
+    400568: deer_Idle_rightLeg2_RigToeAim
+    400570: deer_Idle_rightLeg2_RigUpperLeg
+    400572: deer_Idle_rightLeg2_rotCluster
+    400574: deer_Idle_rightLeg2_RotIsolate
+    400576: deer_Idle_rightLeg2_RotUnIsolate
+    400578: deer_Idle_rightLeg2_stretchValues
+    400580: deer_Idle_rightLeg2_switchIKOut
+    400582: deer_Idle_rightLeg2_ToeBuffer
+    400584: deer_Idle_rightLeg2_ToeControl
+    400586: deer_Idle_rightLeg2_ToeIK
+    400588: deer_Idle_rightLeg2_ToeIKPoleVector
+    400590: deer_Idle_rightLeg2_ToeRaiser
+    400592: deer_Idle_rightLeg2_UpperLegBuffer
+    400594: deer_Idle_rightLeg2_UpperLegControl
+    400596: deer_Idle_spine1_AttributesConnectToUpperBody
+    400598: deer_Idle_spine1_cluster1Handle
+    400600: deer_Idle_spine1_cluster2Handle
+    400602: deer_Idle_spine1_cluster3Handle
+    400604: deer_Idle_spine1_cpConstraintPos_tangentConstraint1
+    400606: deer_Idle_spine1_cpConstraintPos_tangentConstraint2
+    400608: deer_Idle_spine1_Curve
+    400610: deer_Idle_spine1_Curve1
+    400612: deer_Idle_spine1_hipsControl
+    400614: deer_Idle_spine1_hipsIKBuffer
+    400616: deer_Idle_spine1_hipsIKControl
+    400618: deer_Idle_spine1_hiResHips
+    400620: deer_Idle_spine1_hiResSpine1
+    400622: deer_Idle_spine1_hiResSpine2
+    400624: deer_Idle_spine1_hiResSpine3
+    400626: deer_Idle_spine1_hiResSpine4
+    400628: deer_Idle_spine1_hiResSpine5
+    400630: deer_Idle_spine1_hiResWorkNodes
+    400632: deer_Idle_spine1_Loc1
+    400634: deer_Idle_spine1_Loc2
+    400636: deer_Idle_spine1_Loc3
+    400638: deer_Idle_spine1_locator2_tangentConstraint1
+    400640: deer_Idle_spine1_locator3
+    400642: deer_Idle_spine1_locator4
+    400644: deer_Idle_spine1_locator5
+    400646: deer_Idle_spine1_locator6
+    400648: deer_Idle_spine1_locator7
+    400650: deer_Idle_spine1_locator8
+    400652: deer_Idle_spine1_lowerJointRotated
+    400654: deer_Idle_spine1_lowerJointSkewed
+    400656: deer_Idle_spine1_lowerSpineBuffer
+    400658: deer_Idle_spine1_lowerSpineControl
+    400660: deer_Idle_spine1_middleSpineAim
+    400662: deer_Idle_spine1_middleSpineBuffer
+    400664: deer_Idle_spine1_middleSpineControl
+    400666: deer_Idle_spine1_middleSpineIKBuffer
+    400668: deer_Idle_spine1_middleSpineIKControl
+    400670: deer_Idle_spine1_middleSpineTransform
+    400672: deer_Idle_spine1_ParentConstrain
+    400674: deer_Idle_spine1_ParentToWorldNull
+    400676: deer_Idle_spine1_pelvisAttach
+    400678: deer_Idle_spine1_rig
+    400680: deer_Idle_spine1_torsoBuffer
+    400682: deer_Idle_spine1_torsoControl
+    400684: deer_Idle_spine1_torsoIKBuffer
+    400686: deer_Idle_spine1_torsoIKControl
+    400688: deer_Idle_spine1_Trans1
+    400690: deer_Idle_spine1_Trans2
+    400692: deer_Idle_spine1_Trans3
+    400694: deer_Idle_spine1_upperJointRotated
+    400696: deer_Idle_spine1_upperJointSkewed
+    400698: deer_Idle_spine1_UpVector
+    400700: deer_Idle_spine1_widgetAngles
+    400702: deer_Idle_tail1_aimNull1
+    400704: deer_Idle_tail1_aimNull2
+    400706: deer_Idle_tail1_aimNull3
+    400708: deer_Idle_tail1_aimNull4
+    400710: deer_Idle_tail1_aimNull5
+    400712: deer_Idle_tail1_aimNullsBuffer
+    400714: deer_Idle_tail1_AttributesConnectToUpperBody
+    400716: deer_Idle_tail1_controlCluster0Handle
+    400718: deer_Idle_tail1_controlCluster1Handle
+    400720: deer_Idle_tail1_controlCluster2Handle
+    400722: deer_Idle_tail1_controlCluster3Handle
+    400724: deer_Idle_tail1_controlCluster4Handle
+    400726: deer_Idle_tail1_controlCluster5Handle
+    400728: deer_Idle_tail1_controlCluster6Handle
+    400730: deer_Idle_tail1_controlCurve
+    400732: deer_Idle_tail1_controlNull1
+    400734: deer_Idle_tail1_controlNull2
+    400736: deer_Idle_tail1_controlNull3
+    400738: deer_Idle_tail1_Joint1
+    400740: deer_Idle_tail1_Joint2
+    400742: deer_Idle_tail1_Joint3
+    400744: deer_Idle_tail1_Joint4
+    400746: deer_Idle_tail1_Joint5
+    400748: deer_Idle_tail1_nurbsCluster0Handle
+    400750: deer_Idle_tail1_nurbsCluster1Handle
+    400752: deer_Idle_tail1_nurbsCluster2Handle
+    400754: deer_Idle_tail1_nurbsCluster3Handle
+    400756: deer_Idle_tail1_nurbsCluster4Handle
+    400758: deer_Idle_tail1_ParentConstrain
+    400760: deer_Idle_tail1_ParentToWorld
+    400762: deer_Idle_tail1_ParentToWorldNull
+    400764: deer_Idle_tail1_placementNull1
+    400766: deer_Idle_tail1_placementNull2
+    400768: deer_Idle_tail1_placementNull3
+    400770: deer_Idle_tail1_placementNull4
+    400772: deer_Idle_tail1_placementNull5
+    400774: deer_Idle_tail1_reverseAim
+    400776: deer_Idle_tail1_TailFKControl1
+    400778: deer_Idle_tail1_TailFKControl2
+    400780: deer_Idle_tail1_TailFKControl3
+    400782: deer_Idle_tail1_TailFKControlBuffer1
+    400784: deer_Idle_tail1_TailFKControlBuffer2
+    400786: deer_Idle_tail1_TailFKControlBuffer3
+    400788: deer_Idle_tail1_TailIKControl1
+    400790: deer_Idle_tail1_TailIKControl2
+    400792: deer_Idle_tail1_TailIKControl3
+    400794: deer_Idle_tail1_TailIKControlBuffer1
+    400796: deer_Idle_tail1_TailIKControlBuffer2
+    400798: deer_Idle_tail1_TailIKControlBuffer3
+    400800: deer_Idle_tail1_tangencyCurve
+    400802: deer_Idle_tail1_tangentBack2
+    400804: deer_Idle_tail1_tangentBack3
+    400806: deer_Idle_tail1_tangentBuffer1
+    400808: deer_Idle_tail1_tangentBuffer2
+    400810: deer_Idle_tail1_tangentBuffer3
+    400812: deer_Idle_tail1_tangentForward1
+    400814: deer_Idle_tail1_tangentForward2
+    400816: deer_Idle_tail1_twistDifference
+    400818: deer_Idle_TSMG_Cruft
+    400820: deer_Idle_TSMG_IK_Controllers
+    400822: deer_Idle_TSMG_Rig
+    400824: deer_Idle_TSMG_root
+    400826: deer_Idle_TSMG_upper_body
+    400828: deer_Idle_TSMG_upper_body_buffer
+    400830: deer_Idle_TSMGSceneData
+    400832: deer_Idle_TSMGWorldJoint
+    400834: deer
+    400836: head1_AttributesConnectToUpperBody
+    400838: head1_Buffer
+    400840: head1_cluster1Handle
+    400842: head1_cluster2Handle
+    400844: head1_Control
+    400846: head1_head
+    400848: head1_neck
+    400850: head1_neckAWUPAimer
+    400852: head1_neckAWUPLean
+    400854: head1_neckAWUPTwist
+    400856: head1_neckAWUPUnTwist
+    400858: head1_neckBuffer
+    400860: head1_neckControl
+    400862: head1_neckSpace
+    400864: head1_ParentConstrain
+    400866: head1_ParentToUpperBody
+    400868: head1_ParentToWorld
+    400870: head1_RotateToIsolate
+    400872: head1_rotIsolate
+    400874: joint1
+    400876: joint2
+    400878: leftLeg1_arrowClusters
+    400880: leftLeg1_AttributesConnectToUpperBody
+    400882: leftLeg1_AWUPAim
+    400884: leftLeg1_AWUPLean
+    400886: leftLeg1_AWUPTwist
+    400888: leftLeg1_AWUPUnTwist
+    400890: leftLeg1_cluster2Handle
+    400892: leftLeg1_cluster3Handle
+    400894: leftLeg1_cluster4Handle
+    400896: leftLeg1_distanceDimension1
+    400898: leftLeg1_DistanceMeasure1
+    400900: leftLeg1_DistanceMeasure2
+    400902: leftLeg1_FootArrowPoleVector
+    400904: leftLeg1_FootBuffer
+    400906: leftLeg1_FootControl
+    400908: leftLeg1_footControlSizer
+    400910: leftLeg1_FootIK
+    400912: leftLeg1_FootIKPoleVector
+    400914: leftLeg1_HeelRaiser
+    400916: leftLeg1_highResJointAimer
+    400918: leftLeg1_hipTwistAimer
+    400920: leftLeg1_hipUpVect1
+    400922: leftLeg1_hipUpVect2
+    400924: leftLeg1_HiResFoot
+    400926: leftLeg1_HiResLowerLeg
+    400928: leftLeg1_HiResLowerLegTwist
+    400930: leftLeg1_HiResToe
+    400932: leftLeg1_HiResUpperLeg
+    400934: leftLeg1_HiResUpperLegTwist
+    400936: leftLeg1_IKHeelControl
+    400938: leftLeg1_IKSwitchToePlacer
+    400940: leftLeg1_KneeAimer
+    400942: leftLeg1_KneeBuffer
+    400944: leftLeg1_KneeCorrectForWindget
+    400946: leftLeg1_KneeFixPosition
+    400948: leftLeg1_KneeRotateXtra
+    400950: leftLeg1_LegIKAimed
+    400952: leftLeg1_LegIKBuffer
+    400954: leftLeg1_LegIKControl
+    400956: leftLeg1_LegIKKneeControl
+    400958: leftLeg1_LegPoleVector
+    400960: leftLeg1_LowerLegBuffer
+    400962: leftLeg1_LowerLegControl
+    400964: leftLeg1_ParentConstrain
+    400966: leftLeg1_ParentToUpperBody
+    400968: leftLeg1_ParentToWorldNull
+    400970: leftLeg1_poleVectCounterAim
+    400972: leftLeg1_RigAim
+    400974: leftLeg1_RigFoot
+    400976: leftLeg1_Rigging
+    400978: leftLeg1_RigJoints
+    400980: leftLeg1_RigLowerLeg
+    400982: leftLeg1_RigToe
+    400984: leftLeg1_RigToe_end
+    400986: leftLeg1_RigToeAim
+    400988: leftLeg1_RigUpperLeg
+    400990: leftLeg1_rotCluster
+    400992: leftLeg1_RotIsolate
+    400994: leftLeg1_RotUnIsolate
+    400996: leftLeg1_stretchValues
+    400998: leftLeg1_switchIKOut
+    401000: leftLeg1_ToeBuffer
+    401002: leftLeg1_ToeControl
+    401004: leftLeg1_ToeIK
+    401006: leftLeg1_ToeIKPoleVector
+    401008: leftLeg1_ToeRaiser
+    401010: leftLeg1_UpperLegBuffer
+    401012: leftLeg1_UpperLegControl
+    401014: leftLeg2_arrowClusters
+    401016: leftLeg2_AttributesConnectToUpperBody
+    401018: leftLeg2_AWUPAim
+    401020: leftLeg2_AWUPLean
+    401022: leftLeg2_AWUPTwist
+    401024: leftLeg2_AWUPUnTwist
+    401026: leftLeg2_cluster2Handle
+    401028: leftLeg2_cluster3Handle
+    401030: leftLeg2_cluster4Handle
+    401032: leftLeg2_distanceDimension1
+    401034: leftLeg2_DistanceMeasure1
+    401036: leftLeg2_DistanceMeasure2
+    401038: leftLeg2_FootArrowPoleVector
+    401040: leftLeg2_FootBuffer
+    401042: leftLeg2_FootControl
+    401044: leftLeg2_footControlSizer
+    401046: leftLeg2_FootIK
+    401048: leftLeg2_FootIKPoleVector
+    401050: leftLeg2_HeelRaiser
+    401052: leftLeg2_highResJointAimer
+    401054: leftLeg2_hipTwistAimer
+    401056: leftLeg2_hipUpVect1
+    401058: leftLeg2_hipUpVect2
+    401060: leftLeg2_HiResFoot
+    401062: leftLeg2_HiResLowerLeg
+    401064: leftLeg2_HiResLowerLegTwist
+    401066: leftLeg2_HiResToe
+    401068: leftLeg2_HiResUpperLeg
+    401070: leftLeg2_HiResUpperLegTwist
+    401072: leftLeg2_IKHeelControl
+    401074: leftLeg2_IKSwitchToePlacer
+    401076: leftLeg2_KneeAimer
+    401078: leftLeg2_KneeBuffer
+    401080: leftLeg2_KneeCorrectForWindget
+    401082: leftLeg2_KneeFixPosition
+    401084: leftLeg2_KneeRotateXtra
+    401086: leftLeg2_LegIKAimed
+    401088: leftLeg2_LegIKBuffer
+    401090: leftLeg2_LegIKControl
+    401092: leftLeg2_LegIKKneeControl
+    401094: leftLeg2_LegPoleVector
+    401096: leftLeg2_LowerLegBuffer
+    401098: leftLeg2_LowerLegControl
+    401100: leftLeg2_ParentConstrain
+    401102: leftLeg2_ParentToUpperBody
+    401104: leftLeg2_ParentToWorldNull
+    401106: leftLeg2_poleVectCounterAim
+    401108: leftLeg2_RigAim
+    401110: leftLeg2_RigFoot
+    401112: leftLeg2_Rigging
+    401114: leftLeg2_RigJoints
+    401116: leftLeg2_RigLowerLeg
+    401118: leftLeg2_RigToe
+    401120: leftLeg2_RigToe_end
+    401122: leftLeg2_RigToeAim
+    401124: leftLeg2_RigUpperLeg
+    401126: leftLeg2_rotCluster
+    401128: leftLeg2_RotIsolate
+    401130: leftLeg2_RotUnIsolate
+    401132: leftLeg2_stretchValues
+    401134: leftLeg2_switchIKOut
+    401136: leftLeg2_ToeBuffer
+    401138: leftLeg2_ToeControl
+    401140: leftLeg2_ToeIK
+    401142: leftLeg2_ToeIKPoleVector
+    401144: leftLeg2_ToeRaiser
+    401146: leftLeg2_UpperLegBuffer
+    401148: leftLeg2_UpperLegControl
+    401150: rightLeg1_arrowClusters
+    401152: rightLeg1_AttributesConnectToUpperBody
+    401154: rightLeg1_AWUPAim
+    401156: rightLeg1_AWUPLean
+    401158: rightLeg1_AWUPTwist
+    401160: rightLeg1_AWUPUnTwist
+    401162: rightLeg1_cluster2Handle
+    401164: rightLeg1_cluster3Handle
+    401166: rightLeg1_cluster4Handle
+    401168: rightLeg1_distanceDimension1
+    401170: rightLeg1_DistanceMeasure1
+    401172: rightLeg1_DistanceMeasure2
+    401174: rightLeg1_FootArrowPoleVector
+    401176: rightLeg1_FootBuffer
+    401178: rightLeg1_FootControl
+    401180: rightLeg1_footControlSizer
+    401182: rightLeg1_FootIK
+    401184: rightLeg1_FootIKPoleVector
+    401186: rightLeg1_HeelRaiser
+    401188: rightLeg1_highResJointAimer
+    401190: rightLeg1_hipTwistAimer
+    401192: rightLeg1_hipUpVect1
+    401194: rightLeg1_hipUpVect2
+    401196: rightLeg1_HiResFoot
+    401198: rightLeg1_HiResLowerLeg
+    401200: rightLeg1_HiResLowerLegTwist
+    401202: rightLeg1_HiResToe
+    401204: rightLeg1_HiResUpperLeg
+    401206: rightLeg1_HiResUpperLegTwist
+    401208: rightLeg1_IKHeelControl
+    401210: rightLeg1_IKSwitchToePlacer
+    401212: rightLeg1_KneeAimer
+    401214: rightLeg1_KneeBuffer
+    401216: rightLeg1_KneeCorrectForWindget
+    401218: rightLeg1_KneeFixPosition
+    401220: rightLeg1_KneeRotateXtra
+    401222: rightLeg1_LegIKAimed
+    401224: rightLeg1_LegIKBuffer
+    401226: rightLeg1_LegIKControl
+    401228: rightLeg1_LegIKKneeControl
+    401230: rightLeg1_LegPoleVector
+    401232: rightLeg1_LowerLegBuffer
+    401234: rightLeg1_LowerLegControl
+    401236: rightLeg1_ParentConstrain
+    401238: rightLeg1_ParentToUpperBody
+    401240: rightLeg1_ParentToWorldNull
+    401242: rightLeg1_poleVectCounterAim
+    401244: rightLeg1_RigAim
+    401246: rightLeg1_RigFoot
+    401248: rightLeg1_Rigging
+    401250: rightLeg1_RigJoints
+    401252: rightLeg1_RigLowerLeg
+    401254: rightLeg1_RigToe
+    401256: rightLeg1_RigToe_end
+    401258: rightLeg1_RigToeAim
+    401260: rightLeg1_RigUpperLeg
+    401262: rightLeg1_rotCluster
+    401264: rightLeg1_RotIsolate
+    401266: rightLeg1_RotUnIsolate
+    401268: rightLeg1_stretchValues
+    401270: rightLeg1_switchIKOut
+    401272: rightLeg1_ToeBuffer
+    401274: rightLeg1_ToeControl
+    401276: rightLeg1_ToeIK
+    401278: rightLeg1_ToeIKPoleVector
+    401280: rightLeg1_ToeRaiser
+    401282: rightLeg1_UpperLegBuffer
+    401284: rightLeg1_UpperLegControl
+    401286: rightLeg2_arrowClusters
+    401288: rightLeg2_AttributesConnectToUpperBody
+    401290: rightLeg2_AWUPAim
+    401292: rightLeg2_AWUPLean
+    401294: rightLeg2_AWUPTwist
+    401296: rightLeg2_AWUPUnTwist
+    401298: rightLeg2_cluster2Handle
+    401300: rightLeg2_cluster3Handle
+    401302: rightLeg2_cluster4Handle
+    401304: rightLeg2_distanceDimension1
+    401306: rightLeg2_DistanceMeasure1
+    401308: rightLeg2_DistanceMeasure2
+    401310: rightLeg2_FootArrowPoleVector
+    401312: rightLeg2_FootBuffer
+    401314: rightLeg2_FootControl
+    401316: rightLeg2_footControlSizer
+    401318: rightLeg2_FootIK
+    401320: rightLeg2_FootIKPoleVector
+    401322: rightLeg2_HeelRaiser
+    401324: rightLeg2_highResJointAimer
+    401326: rightLeg2_hipTwistAimer
+    401328: rightLeg2_hipUpVect1
+    401330: rightLeg2_hipUpVect2
+    401332: rightLeg2_HiResFoot
+    401334: rightLeg2_HiResLowerLeg
+    401336: rightLeg2_HiResLowerLegTwist
+    401338: rightLeg2_HiResToe
+    401340: rightLeg2_HiResUpperLeg
+    401342: rightLeg2_HiResUpperLegTwist
+    401344: rightLeg2_IKHeelControl
+    401346: rightLeg2_IKSwitchToePlacer
+    401348: rightLeg2_KneeAimer
+    401350: rightLeg2_KneeBuffer
+    401352: rightLeg2_KneeCorrectForWindget
+    401354: rightLeg2_KneeFixPosition
+    401356: rightLeg2_KneeRotateXtra
+    401358: rightLeg2_LegIKAimed
+    401360: rightLeg2_LegIKBuffer
+    401362: rightLeg2_LegIKControl
+    401364: rightLeg2_LegIKKneeControl
+    401366: rightLeg2_LegPoleVector
+    401368: rightLeg2_LowerLegBuffer
+    401370: rightLeg2_LowerLegControl
+    401372: rightLeg2_ParentConstrain
+    401374: rightLeg2_ParentToUpperBody
+    401376: rightLeg2_ParentToWorldNull
+    401378: rightLeg2_poleVectCounterAim
+    401380: rightLeg2_RigAim
+    401382: rightLeg2_RigFoot
+    401384: rightLeg2_Rigging
+    401386: rightLeg2_RigJoints
+    401388: rightLeg2_RigLowerLeg
+    401390: rightLeg2_RigToe
+    401392: rightLeg2_RigToe_end
+    401394: rightLeg2_RigToeAim
+    401396: rightLeg2_RigUpperLeg
+    401398: rightLeg2_rotCluster
+    401400: rightLeg2_RotIsolate
+    401402: rightLeg2_RotUnIsolate
+    401404: rightLeg2_stretchValues
+    401406: rightLeg2_switchIKOut
+    401408: rightLeg2_ToeBuffer
+    401410: rightLeg2_ToeControl
+    401412: rightLeg2_ToeIK
+    401414: rightLeg2_ToeIKPoleVector
+    401416: rightLeg2_ToeRaiser
+    401418: rightLeg2_UpperLegBuffer
+    401420: rightLeg2_UpperLegControl
+    401422: spine1_AttributesConnectToUpperBody
+    401424: spine1_cluster1Handle
+    401426: spine1_cluster2Handle
+    401428: spine1_cluster3Handle
+    401430: spine1_cpConstraintPos_tangentConstraint1
+    401432: spine1_cpConstraintPos_tangentConstraint2
+    401434: spine1_Curve
+    401436: spine1_Curve1
+    401438: spine1_hipsControl
+    401440: spine1_hipsIKBuffer
+    401442: spine1_hipsIKControl
+    401444: spine1_hiResHips
+    401446: spine1_hiResSpine1
+    401448: spine1_hiResSpine2
+    401450: spine1_hiResSpine3
+    401452: spine1_hiResSpine4
+    401454: spine1_hiResSpine5
+    401456: spine1_hiResWorkNodes
+    401458: spine1_Loc1
+    401460: spine1_Loc2
+    401462: spine1_Loc3
+    401464: spine1_locator2_tangentConstraint1
+    401466: spine1_locator3
+    401468: spine1_locator4
+    401470: spine1_locator5
+    401472: spine1_locator6
+    401474: spine1_locator7
+    401476: spine1_locator8
+    401478: spine1_lowerJointRotated
+    401480: spine1_lowerJointSkewed
+    401482: spine1_lowerSpineBuffer
+    401484: spine1_lowerSpineControl
+    401486: spine1_middleSpineAim
+    401488: spine1_middleSpineBuffer
+    401490: spine1_middleSpineControl
+    401492: spine1_middleSpineIKBuffer
+    401494: spine1_middleSpineIKControl
+    401496: spine1_middleSpineTransform
+    401498: spine1_ParentConstrain
+    401500: spine1_ParentToWorldNull
+    401502: spine1_pelvisAttach
+    401504: spine1_rig
+    401506: spine1_torsoBuffer
+    401508: spine1_torsoControl
+    401510: spine1_torsoIKBuffer
+    401512: spine1_torsoIKControl
+    401514: spine1_Trans1
+    401516: spine1_Trans2
+    401518: spine1_Trans3
+    401520: spine1_upperJointRotated
+    401522: spine1_upperJointSkewed
+    401524: spine1_UpVector
+    401526: spine1_widgetAngles
+    401528: tail1_aimNull1
+    401530: tail1_aimNull2
+    401532: tail1_aimNull3
+    401534: tail1_aimNull4
+    401536: tail1_aimNull5
+    401538: tail1_aimNullsBuffer
+    401540: tail1_AttributesConnectToUpperBody
+    401542: tail1_controlCluster0Handle
+    401544: tail1_controlCluster1Handle
+    401546: tail1_controlCluster2Handle
+    401548: tail1_controlCluster3Handle
+    401550: tail1_controlCluster4Handle
+    401552: tail1_controlCluster5Handle
+    401554: tail1_controlCluster6Handle
+    401556: tail1_controlCurve
+    401558: tail1_controlNull1
+    401560: tail1_controlNull2
+    401562: tail1_controlNull3
+    401564: tail1_Joint1
+    401566: tail1_Joint2
+    401568: tail1_Joint3
+    401570: tail1_Joint4
+    401572: tail1_Joint5
+    401574: tail1_nurbsCluster0Handle
+    401576: tail1_nurbsCluster1Handle
+    401578: tail1_nurbsCluster2Handle
+    401580: tail1_nurbsCluster3Handle
+    401582: tail1_nurbsCluster4Handle
+    401584: tail1_ParentConstrain
+    401586: tail1_ParentToWorld
+    401588: tail1_ParentToWorldNull
+    401590: tail1_placementNull1
+    401592: tail1_placementNull2
+    401594: tail1_placementNull3
+    401596: tail1_placementNull4
+    401598: tail1_placementNull5
+    401600: tail1_reverseAim
+    401602: tail1_TailFKControl1
+    401604: tail1_TailFKControl2
+    401606: tail1_TailFKControl3
+    401608: tail1_TailFKControlBuffer1
+    401610: tail1_TailFKControlBuffer2
+    401612: tail1_TailFKControlBuffer3
+    401614: tail1_TailIKControl1
+    401616: tail1_TailIKControl2
+    401618: tail1_TailIKControl3
+    401620: tail1_TailIKControlBuffer1
+    401622: tail1_TailIKControlBuffer2
+    401624: tail1_TailIKControlBuffer3
+    401626: tail1_tangencyCurve
+    401628: tail1_tangentBack2
+    401630: tail1_tangentBack3
+    401632: tail1_tangentBuffer1
+    401634: tail1_tangentBuffer2
+    401636: tail1_tangentBuffer3
+    401638: tail1_tangentForward1
+    401640: tail1_tangentForward2
+    401642: tail1_twistDifference
+    401644: TSMG_Cruft
+    401646: TSMG_IK_Controllers
+    401648: TSMG_Rig
+    401650: TSMG_root
+    401652: TSMG_upper_body
+    401654: TSMG_upper_body_buffer
+    401656: TSMGSceneData
+    401658: TSMGWorldJoint
+    4300000: deer_Idle_deer
+    4300002: deer
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: deer_Idle_deer
+    13700002: deer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: deer_Idle_ambientLight1
+        weight: 1
+      - path: deer_Idle_deer
+        weight: 1
+      - path: deer_Idle_directionalLight1
+        weight: 1
+      - path: deer_Idle_directionalLight2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_AttributesConnectToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer/deer_Idle_head1_neckAWUPAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer/deer_Idle_head1_neckAWUPTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer/deer_Idle_head1_neckAWUPTwist/deer_Idle_head1_neckAWUPLean
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer/deer_Idle_head1_neckAWUPTwist/deer_Idle_head1_neckAWUPLean/deer_Idle_head1_neckAWUPUnTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer/deer_Idle_head1_neckControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer/deer_Idle_head1_neckControl/deer_Idle_head1_Buffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer/deer_Idle_head1_neckControl/deer_Idle_head1_Buffer/deer_Idle_head1_Control
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentConstrain/deer_Idle_head1_neckSpace/deer_Idle_head1_neckBuffer/deer_Idle_head1_neckControl/deer_Idle_head1_Buffer/deer_Idle_head1_RotateToIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentToWorld
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentToWorld/deer_Idle_head1_cluster1Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_head1_ParentToWorld/deer_Idle_head1_cluster2Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_AttributesConnectToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_distanceDimension1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_KneeBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_KneeBuffer/deer_Idle_leftLeg1_KneeAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_KneeBuffer/deer_Idle_leftLeg1_KneeAimer/deer_Idle_leftLeg1_KneeFixPosition
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_KneeBuffer/deer_Idle_leftLeg1_KneeAimer/deer_Idle_leftLeg1_KneeFixPosition/deer_Idle_leftLeg1_KneeRotateXtra
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_KneeBuffer/deer_Idle_leftLeg1_KneeAimer/deer_Idle_leftLeg1_KneeFixPosition/deer_Idle_leftLeg1_KneeRotateXtra/deer_Idle_leftLeg1_KneeCorrectForWindget
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_KneeBuffer/deer_Idle_leftLeg1_KneeAimer/deer_Idle_leftLeg1_KneeFixPosition/deer_Idle_leftLeg1_KneeRotateXtra/deer_Idle_leftLeg1_KneeCorrectForWindget/deer_Idle_leftLeg1_LegIKKneeControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_KneeBuffer/deer_Idle_leftLeg1_KneeAimer/deer_Idle_leftLeg1_KneeFixPosition/deer_Idle_leftLeg1_KneeRotateXtra/deer_Idle_leftLeg1_KneeCorrectForWindget/deer_Idle_leftLeg1_LegIKKneeControl/deer_Idle_leftLeg1_LegPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_hipTwistAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_hipUpVect2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_RigLowerLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_RigLowerLeg/deer_Idle_leftLeg1_RigAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_RigLowerLeg/deer_Idle_leftLeg1_RigFoot
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_RigLowerLeg/deer_Idle_leftLeg1_RigFoot/deer_Idle_leftLeg1_IKSwitchToePlacer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_RigLowerLeg/deer_Idle_leftLeg1_RigFoot/deer_Idle_leftLeg1_RigToe
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_RigLowerLeg/deer_Idle_leftLeg1_RigFoot/deer_Idle_leftLeg1_RigToe/deer_Idle_leftLeg1_RigToe_end
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_RigLowerLeg/deer_Idle_leftLeg1_RigFoot/deer_Idle_leftLeg1_RigToe/deer_Idle_leftLeg1_switchIKOut
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RigJoints/deer_Idle_leftLeg1_RigUpperLeg/deer_Idle_leftLeg1_RigLowerLeg/deer_Idle_leftLeg1_RigFoot/deer_Idle_leftLeg1_RigToeAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_RotUnIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_AWUPAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_AWUPTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_AWUPTwist/deer_Idle_leftLeg1_AWUPLean
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_AWUPTwist/deer_Idle_leftLeg1_AWUPLean/deer_Idle_leftLeg1_AWUPUnTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_DistanceMeasure1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_highResJointAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_highResJointAimer/deer_Idle_leftLeg1_hipUpVect1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_UpperLegControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_UpperLegControl/deer_Idle_leftLeg1_LowerLegBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_UpperLegControl/deer_Idle_leftLeg1_LowerLegBuffer/deer_Idle_leftLeg1_LowerLegControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_UpperLegControl/deer_Idle_leftLeg1_LowerLegBuffer/deer_Idle_leftLeg1_LowerLegControl/deer_Idle_leftLeg1_FootBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_UpperLegControl/deer_Idle_leftLeg1_LowerLegBuffer/deer_Idle_leftLeg1_LowerLegControl/deer_Idle_leftLeg1_FootBuffer/deer_Idle_leftLeg1_FootControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_UpperLegControl/deer_Idle_leftLeg1_LowerLegBuffer/deer_Idle_leftLeg1_LowerLegControl/deer_Idle_leftLeg1_FootBuffer/deer_Idle_leftLeg1_FootControl/deer_Idle_leftLeg1_ToeBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_ParentConstrain/deer_Idle_leftLeg1_Rigging/deer_Idle_leftLeg1_UpperLegBuffer/deer_Idle_leftLeg1_UpperLegControl/deer_Idle_leftLeg1_LowerLegBuffer/deer_Idle_leftLeg1_LowerLegControl/deer_Idle_leftLeg1_FootBuffer/deer_Idle_leftLeg1_FootControl/deer_Idle_leftLeg1_ToeBuffer/deer_Idle_leftLeg1_ToeControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg1_stretchValues
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_AttributesConnectToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_distanceDimension1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_KneeBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_KneeBuffer/deer_Idle_leftLeg2_KneeAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_KneeBuffer/deer_Idle_leftLeg2_KneeAimer/deer_Idle_leftLeg2_KneeFixPosition
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_KneeBuffer/deer_Idle_leftLeg2_KneeAimer/deer_Idle_leftLeg2_KneeFixPosition/deer_Idle_leftLeg2_KneeRotateXtra
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_KneeBuffer/deer_Idle_leftLeg2_KneeAimer/deer_Idle_leftLeg2_KneeFixPosition/deer_Idle_leftLeg2_KneeRotateXtra/deer_Idle_leftLeg2_KneeCorrectForWindget
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_KneeBuffer/deer_Idle_leftLeg2_KneeAimer/deer_Idle_leftLeg2_KneeFixPosition/deer_Idle_leftLeg2_KneeRotateXtra/deer_Idle_leftLeg2_KneeCorrectForWindget/deer_Idle_leftLeg2_LegIKKneeControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_KneeBuffer/deer_Idle_leftLeg2_KneeAimer/deer_Idle_leftLeg2_KneeFixPosition/deer_Idle_leftLeg2_KneeRotateXtra/deer_Idle_leftLeg2_KneeCorrectForWindget/deer_Idle_leftLeg2_LegIKKneeControl/deer_Idle_leftLeg2_LegPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_hipTwistAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_hipUpVect2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_RigLowerLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_RigLowerLeg/deer_Idle_leftLeg2_RigAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_RigLowerLeg/deer_Idle_leftLeg2_RigFoot
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_RigLowerLeg/deer_Idle_leftLeg2_RigFoot/deer_Idle_leftLeg2_IKSwitchToePlacer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_RigLowerLeg/deer_Idle_leftLeg2_RigFoot/deer_Idle_leftLeg2_RigToe
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_RigLowerLeg/deer_Idle_leftLeg2_RigFoot/deer_Idle_leftLeg2_RigToe/deer_Idle_leftLeg2_RigToe_end
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_RigLowerLeg/deer_Idle_leftLeg2_RigFoot/deer_Idle_leftLeg2_RigToe/deer_Idle_leftLeg2_switchIKOut
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RigJoints/deer_Idle_leftLeg2_RigUpperLeg/deer_Idle_leftLeg2_RigLowerLeg/deer_Idle_leftLeg2_RigFoot/deer_Idle_leftLeg2_RigToeAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_RotUnIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_AWUPAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_AWUPTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_AWUPTwist/deer_Idle_leftLeg2_AWUPLean
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_AWUPTwist/deer_Idle_leftLeg2_AWUPLean/deer_Idle_leftLeg2_AWUPUnTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_DistanceMeasure1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_highResJointAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_highResJointAimer/deer_Idle_leftLeg2_hipUpVect1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_UpperLegControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_UpperLegControl/deer_Idle_leftLeg2_LowerLegBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_UpperLegControl/deer_Idle_leftLeg2_LowerLegBuffer/deer_Idle_leftLeg2_LowerLegControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_UpperLegControl/deer_Idle_leftLeg2_LowerLegBuffer/deer_Idle_leftLeg2_LowerLegControl/deer_Idle_leftLeg2_FootBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_UpperLegControl/deer_Idle_leftLeg2_LowerLegBuffer/deer_Idle_leftLeg2_LowerLegControl/deer_Idle_leftLeg2_FootBuffer/deer_Idle_leftLeg2_FootControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_UpperLegControl/deer_Idle_leftLeg2_LowerLegBuffer/deer_Idle_leftLeg2_LowerLegControl/deer_Idle_leftLeg2_FootBuffer/deer_Idle_leftLeg2_FootControl/deer_Idle_leftLeg2_ToeBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_ParentConstrain/deer_Idle_leftLeg2_Rigging/deer_Idle_leftLeg2_UpperLegBuffer/deer_Idle_leftLeg2_UpperLegControl/deer_Idle_leftLeg2_LowerLegBuffer/deer_Idle_leftLeg2_LowerLegControl/deer_Idle_leftLeg2_FootBuffer/deer_Idle_leftLeg2_FootControl/deer_Idle_leftLeg2_ToeBuffer/deer_Idle_leftLeg2_ToeControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_leftLeg2_stretchValues
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_AttributesConnectToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_distanceDimension1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_KneeBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_KneeBuffer/deer_Idle_rightLeg1_KneeAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_KneeBuffer/deer_Idle_rightLeg1_KneeAimer/deer_Idle_rightLeg1_KneeFixPosition
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_KneeBuffer/deer_Idle_rightLeg1_KneeAimer/deer_Idle_rightLeg1_KneeFixPosition/deer_Idle_rightLeg1_KneeRotateXtra
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_KneeBuffer/deer_Idle_rightLeg1_KneeAimer/deer_Idle_rightLeg1_KneeFixPosition/deer_Idle_rightLeg1_KneeRotateXtra/deer_Idle_rightLeg1_KneeCorrectForWindget
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_KneeBuffer/deer_Idle_rightLeg1_KneeAimer/deer_Idle_rightLeg1_KneeFixPosition/deer_Idle_rightLeg1_KneeRotateXtra/deer_Idle_rightLeg1_KneeCorrectForWindget/deer_Idle_rightLeg1_LegIKKneeControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_KneeBuffer/deer_Idle_rightLeg1_KneeAimer/deer_Idle_rightLeg1_KneeFixPosition/deer_Idle_rightLeg1_KneeRotateXtra/deer_Idle_rightLeg1_KneeCorrectForWindget/deer_Idle_rightLeg1_LegIKKneeControl/deer_Idle_rightLeg1_LegPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_hipTwistAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_hipUpVect2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_RigLowerLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_RigLowerLeg/deer_Idle_rightLeg1_RigAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_RigLowerLeg/deer_Idle_rightLeg1_RigFoot
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_RigLowerLeg/deer_Idle_rightLeg1_RigFoot/deer_Idle_rightLeg1_IKSwitchToePlacer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_RigLowerLeg/deer_Idle_rightLeg1_RigFoot/deer_Idle_rightLeg1_RigToe
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_RigLowerLeg/deer_Idle_rightLeg1_RigFoot/deer_Idle_rightLeg1_RigToe/deer_Idle_rightLeg1_RigToe_end
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_RigLowerLeg/deer_Idle_rightLeg1_RigFoot/deer_Idle_rightLeg1_RigToe/deer_Idle_rightLeg1_switchIKOut
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RigJoints/deer_Idle_rightLeg1_RigUpperLeg/deer_Idle_rightLeg1_RigLowerLeg/deer_Idle_rightLeg1_RigFoot/deer_Idle_rightLeg1_RigToeAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_RotUnIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_AWUPAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_AWUPTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_AWUPTwist/deer_Idle_rightLeg1_AWUPLean
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_AWUPTwist/deer_Idle_rightLeg1_AWUPLean/deer_Idle_rightLeg1_AWUPUnTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_DistanceMeasure1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_highResJointAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_highResJointAimer/deer_Idle_rightLeg1_hipUpVect1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_UpperLegControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_UpperLegControl/deer_Idle_rightLeg1_LowerLegBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_UpperLegControl/deer_Idle_rightLeg1_LowerLegBuffer/deer_Idle_rightLeg1_LowerLegControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_UpperLegControl/deer_Idle_rightLeg1_LowerLegBuffer/deer_Idle_rightLeg1_LowerLegControl/deer_Idle_rightLeg1_FootBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_UpperLegControl/deer_Idle_rightLeg1_LowerLegBuffer/deer_Idle_rightLeg1_LowerLegControl/deer_Idle_rightLeg1_FootBuffer/deer_Idle_rightLeg1_FootControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_UpperLegControl/deer_Idle_rightLeg1_LowerLegBuffer/deer_Idle_rightLeg1_LowerLegControl/deer_Idle_rightLeg1_FootBuffer/deer_Idle_rightLeg1_FootControl/deer_Idle_rightLeg1_ToeBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_ParentConstrain/deer_Idle_rightLeg1_Rigging/deer_Idle_rightLeg1_UpperLegBuffer/deer_Idle_rightLeg1_UpperLegControl/deer_Idle_rightLeg1_LowerLegBuffer/deer_Idle_rightLeg1_LowerLegControl/deer_Idle_rightLeg1_FootBuffer/deer_Idle_rightLeg1_FootControl/deer_Idle_rightLeg1_ToeBuffer/deer_Idle_rightLeg1_ToeControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg1_stretchValues
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_AttributesConnectToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_distanceDimension1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_KneeBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_KneeBuffer/deer_Idle_rightLeg2_KneeAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_KneeBuffer/deer_Idle_rightLeg2_KneeAimer/deer_Idle_rightLeg2_KneeFixPosition
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_KneeBuffer/deer_Idle_rightLeg2_KneeAimer/deer_Idle_rightLeg2_KneeFixPosition/deer_Idle_rightLeg2_KneeRotateXtra
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_KneeBuffer/deer_Idle_rightLeg2_KneeAimer/deer_Idle_rightLeg2_KneeFixPosition/deer_Idle_rightLeg2_KneeRotateXtra/deer_Idle_rightLeg2_KneeCorrectForWindget
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_KneeBuffer/deer_Idle_rightLeg2_KneeAimer/deer_Idle_rightLeg2_KneeFixPosition/deer_Idle_rightLeg2_KneeRotateXtra/deer_Idle_rightLeg2_KneeCorrectForWindget/deer_Idle_rightLeg2_LegIKKneeControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_KneeBuffer/deer_Idle_rightLeg2_KneeAimer/deer_Idle_rightLeg2_KneeFixPosition/deer_Idle_rightLeg2_KneeRotateXtra/deer_Idle_rightLeg2_KneeCorrectForWindget/deer_Idle_rightLeg2_LegIKKneeControl/deer_Idle_rightLeg2_LegPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_hipTwistAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_hipUpVect2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_RigLowerLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_RigLowerLeg/deer_Idle_rightLeg2_RigAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_RigLowerLeg/deer_Idle_rightLeg2_RigFoot
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_RigLowerLeg/deer_Idle_rightLeg2_RigFoot/deer_Idle_rightLeg2_IKSwitchToePlacer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_RigLowerLeg/deer_Idle_rightLeg2_RigFoot/deer_Idle_rightLeg2_RigToe
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_RigLowerLeg/deer_Idle_rightLeg2_RigFoot/deer_Idle_rightLeg2_RigToe/deer_Idle_rightLeg2_RigToe_end
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_RigLowerLeg/deer_Idle_rightLeg2_RigFoot/deer_Idle_rightLeg2_RigToe/deer_Idle_rightLeg2_switchIKOut
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RigJoints/deer_Idle_rightLeg2_RigUpperLeg/deer_Idle_rightLeg2_RigLowerLeg/deer_Idle_rightLeg2_RigFoot/deer_Idle_rightLeg2_RigToeAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_RotUnIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_AWUPAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_AWUPTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_AWUPTwist/deer_Idle_rightLeg2_AWUPLean
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_AWUPTwist/deer_Idle_rightLeg2_AWUPLean/deer_Idle_rightLeg2_AWUPUnTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_DistanceMeasure1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_highResJointAimer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_highResJointAimer/deer_Idle_rightLeg2_hipUpVect1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_UpperLegControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_UpperLegControl/deer_Idle_rightLeg2_LowerLegBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_UpperLegControl/deer_Idle_rightLeg2_LowerLegBuffer/deer_Idle_rightLeg2_LowerLegControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_UpperLegControl/deer_Idle_rightLeg2_LowerLegBuffer/deer_Idle_rightLeg2_LowerLegControl/deer_Idle_rightLeg2_FootBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_UpperLegControl/deer_Idle_rightLeg2_LowerLegBuffer/deer_Idle_rightLeg2_LowerLegControl/deer_Idle_rightLeg2_FootBuffer/deer_Idle_rightLeg2_FootControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_UpperLegControl/deer_Idle_rightLeg2_LowerLegBuffer/deer_Idle_rightLeg2_LowerLegControl/deer_Idle_rightLeg2_FootBuffer/deer_Idle_rightLeg2_FootControl/deer_Idle_rightLeg2_ToeBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_ParentConstrain/deer_Idle_rightLeg2_Rigging/deer_Idle_rightLeg2_UpperLegBuffer/deer_Idle_rightLeg2_UpperLegControl/deer_Idle_rightLeg2_LowerLegBuffer/deer_Idle_rightLeg2_LowerLegControl/deer_Idle_rightLeg2_FootBuffer/deer_Idle_rightLeg2_FootControl/deer_Idle_rightLeg2_ToeBuffer/deer_Idle_rightLeg2_ToeControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_rightLeg2_stretchValues
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_AttributesConnectToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Curve1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hipsIKBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hipsIKBuffer/deer_Idle_spine1_hipsIKControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_lowerJointRotated
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_lowerJointRotated/deer_Idle_spine1_cpConstraintPos_tangentConstraint1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_lowerJointRotated/deer_Idle_spine1_locator7
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_lowerJointRotated/deer_Idle_spine1_locator7/deer_Idle_spine1_locator8
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_lowerJointSkewed
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_upperJointRotated
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_upperJointRotated/deer_Idle_spine1_cpConstraintPos_tangentConstraint2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_upperJointRotated/deer_Idle_spine1_locator5
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_upperJointRotated/deer_Idle_spine1_locator5/deer_Idle_spine1_locator6
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_hiResWorkNodes/deer_Idle_spine1_upperJointSkewed
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_lowerSpineBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_lowerSpineBuffer/deer_Idle_spine1_lowerSpineControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_lowerSpineBuffer/deer_Idle_spine1_lowerSpineControl/deer_Idle_spine1_hipsControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_lowerSpineBuffer/deer_Idle_spine1_lowerSpineControl/deer_Idle_spine1_middleSpineBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_lowerSpineBuffer/deer_Idle_spine1_lowerSpineControl/deer_Idle_spine1_middleSpineBuffer/deer_Idle_spine1_middleSpineControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_lowerSpineBuffer/deer_Idle_spine1_lowerSpineControl/deer_Idle_spine1_middleSpineBuffer/deer_Idle_spine1_middleSpineControl/deer_Idle_spine1_torsoBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_lowerSpineBuffer/deer_Idle_spine1_lowerSpineControl/deer_Idle_spine1_middleSpineBuffer/deer_Idle_spine1_middleSpineControl/deer_Idle_spine1_torsoBuffer/deer_Idle_spine1_torsoControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_middleSpineTransform
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_middleSpineTransform/deer_Idle_spine1_middleSpineAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_middleSpineTransform/deer_Idle_spine1_middleSpineAim/deer_Idle_spine1_middleSpineIKBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_middleSpineTransform/deer_Idle_spine1_middleSpineAim/deer_Idle_spine1_middleSpineIKBuffer/deer_Idle_spine1_middleSpineIKControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_torsoIKBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_torsoIKBuffer/deer_Idle_spine1_torsoIKControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans1/deer_Idle_spine1_Loc1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans1/deer_Idle_spine1_locator3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans1/deer_Idle_spine1_pelvisAttach
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans2/deer_Idle_spine1_Loc2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans2/deer_Idle_spine1_Loc2/deer_Idle_spine1_locator2_tangentConstraint1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans2/deer_Idle_spine1_UpVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans3/deer_Idle_spine1_Loc3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_ParentConstrain/deer_Idle_spine1_rig/deer_Idle_spine1_Trans3/deer_Idle_spine1_locator4
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_spine1_widgetAngles
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_AttributesConnectToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_aimNullsBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_aimNullsBuffer/deer_Idle_tail1_aimNull1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_aimNullsBuffer/deer_Idle_tail1_aimNull1/deer_Idle_tail1_aimNull2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_aimNullsBuffer/deer_Idle_tail1_aimNull1/deer_Idle_tail1_aimNull2/deer_Idle_tail1_aimNull3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_aimNullsBuffer/deer_Idle_tail1_aimNull1/deer_Idle_tail1_aimNull2/deer_Idle_tail1_aimNull3/deer_Idle_tail1_aimNull4
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_aimNullsBuffer/deer_Idle_tail1_aimNull1/deer_Idle_tail1_aimNull2/deer_Idle_tail1_aimNull3/deer_Idle_tail1_aimNull4/deer_Idle_tail1_aimNull5
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_TailFKControlBuffer1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_TailFKControlBuffer1/deer_Idle_tail1_TailFKControl1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_TailFKControlBuffer1/deer_Idle_tail1_TailFKControl1/deer_Idle_tail1_TailFKControlBuffer2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_TailFKControlBuffer1/deer_Idle_tail1_TailFKControl1/deer_Idle_tail1_TailFKControlBuffer2/deer_Idle_tail1_TailFKControl2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_TailFKControlBuffer1/deer_Idle_tail1_TailFKControl1/deer_Idle_tail1_TailFKControlBuffer2/deer_Idle_tail1_TailFKControl2/deer_Idle_tail1_TailFKControlBuffer3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentConstrain/deer_Idle_tail1_TailFKControlBuffer1/deer_Idle_tail1_TailFKControl1/deer_Idle_tail1_TailFKControlBuffer2/deer_Idle_tail1_TailFKControl2/deer_Idle_tail1_TailFKControlBuffer3/deer_Idle_tail1_TailFKControl3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlCurve
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull1/deer_Idle_tail1_nurbsCluster0Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull1/deer_Idle_tail1_nurbsCluster1Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull2/deer_Idle_tail1_nurbsCluster2Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull3/deer_Idle_tail1_nurbsCluster3Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull3/deer_Idle_tail1_nurbsCluster4Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull3/deer_Idle_tail1_reverseAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_controlNull3/deer_Idle_tail1_reverseAim/deer_Idle_tail1_twistDifference
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_placementNull1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_placementNull2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_placementNull3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_placementNull4
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_placementNull5
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangencyCurve
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer1/deer_Idle_tail1_controlCluster0Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer1/deer_Idle_tail1_tangentForward1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer1/deer_Idle_tail1_tangentForward1/deer_Idle_tail1_controlCluster1Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer2/deer_Idle_tail1_controlCluster3Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer2/deer_Idle_tail1_tangentBack2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer2/deer_Idle_tail1_tangentBack2/deer_Idle_tail1_controlCluster2Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer2/deer_Idle_tail1_tangentForward2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer2/deer_Idle_tail1_tangentForward2/deer_Idle_tail1_controlCluster4Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer3/deer_Idle_tail1_controlCluster6Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer3/deer_Idle_tail1_tangentBack3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_tail1_ParentToWorld/deer_Idle_tail1_tangentBuffer3/deer_Idle_tail1_tangentBack3/deer_Idle_tail1_controlCluster5Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGSceneData
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_leftLeg2_HiResUpperLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_leftLeg2_HiResUpperLeg/deer_Idle_leftLeg2_HiResUpperLegTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_leftLeg2_HiResUpperLeg/deer_Idle_leftLeg2_HiResUpperLegTwist/deer_Idle_leftLeg2_HiResLowerLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_leftLeg2_HiResUpperLeg/deer_Idle_leftLeg2_HiResUpperLegTwist/deer_Idle_leftLeg2_HiResLowerLeg/deer_Idle_leftLeg2_HiResLowerLegTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_leftLeg2_HiResUpperLeg/deer_Idle_leftLeg2_HiResUpperLegTwist/deer_Idle_leftLeg2_HiResLowerLeg/deer_Idle_leftLeg2_HiResLowerLegTwist/deer_Idle_leftLeg2_HiResFoot
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_leftLeg2_HiResUpperLeg/deer_Idle_leftLeg2_HiResUpperLegTwist/deer_Idle_leftLeg2_HiResLowerLeg/deer_Idle_leftLeg2_HiResLowerLegTwist/deer_Idle_leftLeg2_HiResFoot/deer_Idle_leftLeg2_HiResToe
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_rightLeg2_HiResUpperLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_rightLeg2_HiResUpperLeg/deer_Idle_rightLeg2_HiResUpperLegTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_rightLeg2_HiResUpperLeg/deer_Idle_rightLeg2_HiResUpperLegTwist/deer_Idle_rightLeg2_HiResLowerLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_rightLeg2_HiResUpperLeg/deer_Idle_rightLeg2_HiResUpperLegTwist/deer_Idle_rightLeg2_HiResLowerLeg/deer_Idle_rightLeg2_HiResLowerLegTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_rightLeg2_HiResUpperLeg/deer_Idle_rightLeg2_HiResUpperLegTwist/deer_Idle_rightLeg2_HiResLowerLeg/deer_Idle_rightLeg2_HiResLowerLegTwist/deer_Idle_rightLeg2_HiResFoot
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_rightLeg2_HiResUpperLeg/deer_Idle_rightLeg2_HiResUpperLegTwist/deer_Idle_rightLeg2_HiResLowerLeg/deer_Idle_rightLeg2_HiResLowerLegTwist/deer_Idle_rightLeg2_HiResFoot/deer_Idle_rightLeg2_HiResToe
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_tail1_Joint1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_tail1_Joint1/deer_Idle_tail1_Joint2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_tail1_Joint1/deer_Idle_tail1_Joint2/deer_Idle_tail1_Joint3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_tail1_Joint1/deer_Idle_tail1_Joint2/deer_Idle_tail1_Joint3/deer_Idle_tail1_Joint4
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResHips/deer_Idle_tail1_Joint1/deer_Idle_tail1_Joint2/deer_Idle_tail1_Joint3/deer_Idle_tail1_Joint4/deer_Idle_tail1_Joint5
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_head1_neck
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_head1_neck/deer_Idle_head1_head
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_head1_neck/deer_Idle_head1_head/deer_Idle_joint1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_head1_neck/deer_Idle_head1_head/deer_Idle_joint1/deer_Idle_joint2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_leftLeg1_HiResUpperLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_leftLeg1_HiResUpperLeg/deer_Idle_leftLeg1_HiResUpperLegTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_leftLeg1_HiResUpperLeg/deer_Idle_leftLeg1_HiResUpperLegTwist/deer_Idle_leftLeg1_HiResLowerLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_leftLeg1_HiResUpperLeg/deer_Idle_leftLeg1_HiResUpperLegTwist/deer_Idle_leftLeg1_HiResLowerLeg/deer_Idle_leftLeg1_HiResLowerLegTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_leftLeg1_HiResUpperLeg/deer_Idle_leftLeg1_HiResUpperLegTwist/deer_Idle_leftLeg1_HiResLowerLeg/deer_Idle_leftLeg1_HiResLowerLegTwist/deer_Idle_leftLeg1_HiResFoot
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_leftLeg1_HiResUpperLeg/deer_Idle_leftLeg1_HiResUpperLegTwist/deer_Idle_leftLeg1_HiResLowerLeg/deer_Idle_leftLeg1_HiResLowerLegTwist/deer_Idle_leftLeg1_HiResFoot/deer_Idle_leftLeg1_HiResToe
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_rightLeg1_HiResUpperLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_rightLeg1_HiResUpperLeg/deer_Idle_rightLeg1_HiResUpperLegTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_rightLeg1_HiResUpperLeg/deer_Idle_rightLeg1_HiResUpperLegTwist/deer_Idle_rightLeg1_HiResLowerLeg
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_rightLeg1_HiResUpperLeg/deer_Idle_rightLeg1_HiResUpperLegTwist/deer_Idle_rightLeg1_HiResLowerLeg/deer_Idle_rightLeg1_HiResLowerLegTwist
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_rightLeg1_HiResUpperLeg/deer_Idle_rightLeg1_HiResUpperLegTwist/deer_Idle_rightLeg1_HiResLowerLeg/deer_Idle_rightLeg1_HiResLowerLegTwist/deer_Idle_rightLeg1_HiResFoot
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_Cruft/deer_Idle_TSMGWorldJoint/deer_Idle_spine1_hiResSpine1/deer_Idle_spine1_hiResSpine2/deer_Idle_spine1_hiResSpine3/deer_Idle_spine1_hiResSpine4/deer_Idle_spine1_hiResSpine5/deer_Idle_rightLeg1_HiResUpperLeg/deer_Idle_rightLeg1_HiResUpperLegTwist/deer_Idle_rightLeg1_HiResLowerLeg/deer_Idle_rightLeg1_HiResLowerLegTwist/deer_Idle_rightLeg1_HiResFoot/deer_Idle_rightLeg1_HiResToe
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_arrowClusters
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_arrowClusters/deer_Idle_leftLeg1_cluster3Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_arrowClusters/deer_Idle_leftLeg1_cluster4Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_arrowClusters/deer_Idle_leftLeg1_footControlSizer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_arrowClusters/deer_Idle_leftLeg1_rotCluster
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_arrowClusters/deer_Idle_leftLeg1_rotCluster/deer_Idle_leftLeg1_cluster2Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_HeelRaiser
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_HeelRaiser/deer_Idle_leftLeg1_IKHeelControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_HeelRaiser/deer_Idle_leftLeg1_IKHeelControl/deer_Idle_leftLeg1_DistanceMeasure2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_HeelRaiser/deer_Idle_leftLeg1_IKHeelControl/deer_Idle_leftLeg1_FootIK
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_HeelRaiser/deer_Idle_leftLeg1_IKHeelControl/deer_Idle_leftLeg1_FootIKPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_poleVectCounterAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_poleVectCounterAim/deer_Idle_leftLeg1_FootArrowPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_ToeRaiser
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_ToeRaiser/deer_Idle_leftLeg1_ToeIK
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_LegIKBuffer/deer_Idle_leftLeg1_LegIKControl/deer_Idle_leftLeg1_LegIKAimed/deer_Idle_leftLeg1_ToeRaiser/deer_Idle_leftLeg1_ToeIKPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg1_ParentToWorldNull/deer_Idle_leftLeg1_RotIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_arrowClusters
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_arrowClusters/deer_Idle_leftLeg2_cluster3Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_arrowClusters/deer_Idle_leftLeg2_cluster4Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_arrowClusters/deer_Idle_leftLeg2_footControlSizer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_arrowClusters/deer_Idle_leftLeg2_rotCluster
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_arrowClusters/deer_Idle_leftLeg2_rotCluster/deer_Idle_leftLeg2_cluster2Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_HeelRaiser
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_HeelRaiser/deer_Idle_leftLeg2_IKHeelControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_HeelRaiser/deer_Idle_leftLeg2_IKHeelControl/deer_Idle_leftLeg2_DistanceMeasure2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_HeelRaiser/deer_Idle_leftLeg2_IKHeelControl/deer_Idle_leftLeg2_FootIK
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_HeelRaiser/deer_Idle_leftLeg2_IKHeelControl/deer_Idle_leftLeg2_FootIKPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_poleVectCounterAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_poleVectCounterAim/deer_Idle_leftLeg2_FootArrowPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_ToeRaiser
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_ToeRaiser/deer_Idle_leftLeg2_ToeIK
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_LegIKBuffer/deer_Idle_leftLeg2_LegIKControl/deer_Idle_leftLeg2_LegIKAimed/deer_Idle_leftLeg2_ToeRaiser/deer_Idle_leftLeg2_ToeIKPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_leftLeg2_ParentToWorldNull/deer_Idle_leftLeg2_RotIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_arrowClusters
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_arrowClusters/deer_Idle_rightLeg1_cluster3Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_arrowClusters/deer_Idle_rightLeg1_cluster4Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_arrowClusters/deer_Idle_rightLeg1_footControlSizer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_arrowClusters/deer_Idle_rightLeg1_rotCluster
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_arrowClusters/deer_Idle_rightLeg1_rotCluster/deer_Idle_rightLeg1_cluster2Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_HeelRaiser
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_HeelRaiser/deer_Idle_rightLeg1_IKHeelControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_HeelRaiser/deer_Idle_rightLeg1_IKHeelControl/deer_Idle_rightLeg1_DistanceMeasure2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_HeelRaiser/deer_Idle_rightLeg1_IKHeelControl/deer_Idle_rightLeg1_FootIK
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_HeelRaiser/deer_Idle_rightLeg1_IKHeelControl/deer_Idle_rightLeg1_FootIKPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_poleVectCounterAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_poleVectCounterAim/deer_Idle_rightLeg1_FootArrowPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_ToeRaiser
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_ToeRaiser/deer_Idle_rightLeg1_ToeIK
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_LegIKBuffer/deer_Idle_rightLeg1_LegIKControl/deer_Idle_rightLeg1_LegIKAimed/deer_Idle_rightLeg1_ToeRaiser/deer_Idle_rightLeg1_ToeIKPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg1_ParentToWorldNull/deer_Idle_rightLeg1_RotIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_arrowClusters
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_arrowClusters/deer_Idle_rightLeg2_cluster3Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_arrowClusters/deer_Idle_rightLeg2_cluster4Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_arrowClusters/deer_Idle_rightLeg2_footControlSizer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_arrowClusters/deer_Idle_rightLeg2_rotCluster
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_arrowClusters/deer_Idle_rightLeg2_rotCluster/deer_Idle_rightLeg2_cluster2Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_HeelRaiser
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_HeelRaiser/deer_Idle_rightLeg2_IKHeelControl
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_HeelRaiser/deer_Idle_rightLeg2_IKHeelControl/deer_Idle_rightLeg2_DistanceMeasure2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_HeelRaiser/deer_Idle_rightLeg2_IKHeelControl/deer_Idle_rightLeg2_FootIK
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_HeelRaiser/deer_Idle_rightLeg2_IKHeelControl/deer_Idle_rightLeg2_FootIKPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_poleVectCounterAim
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_poleVectCounterAim/deer_Idle_rightLeg2_FootArrowPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_ToeRaiser
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_ToeRaiser/deer_Idle_rightLeg2_ToeIK
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_LegIKBuffer/deer_Idle_rightLeg2_LegIKControl/deer_Idle_rightLeg2_LegIKAimed/deer_Idle_rightLeg2_ToeRaiser/deer_Idle_rightLeg2_ToeIKPoleVector
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_rightLeg2_ParentToWorldNull/deer_Idle_rightLeg2_RotIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_spine1_ParentToWorldNull
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_spine1_ParentToWorldNull/deer_Idle_spine1_cluster1Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_spine1_ParentToWorldNull/deer_Idle_spine1_cluster2Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_spine1_ParentToWorldNull/deer_Idle_spine1_cluster3Handle
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_spine1_ParentToWorldNull/deer_Idle_spine1_Curve
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_tail1_ParentToWorldNull
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_tail1_ParentToWorldNull/deer_Idle_tail1_TailIKControlBuffer1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_tail1_ParentToWorldNull/deer_Idle_tail1_TailIKControlBuffer1/deer_Idle_tail1_TailIKControl1
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_tail1_ParentToWorldNull/deer_Idle_tail1_TailIKControlBuffer2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_tail1_ParentToWorldNull/deer_Idle_tail1_TailIKControlBuffer2/deer_Idle_tail1_TailIKControl2
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_tail1_ParentToWorldNull/deer_Idle_tail1_TailIKControlBuffer3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_tail1_ParentToWorldNull/deer_Idle_tail1_TailIKControlBuffer3/deer_Idle_tail1_TailIKControl3
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_TSMG_upper_body_buffer
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_TSMG_upper_body_buffer/deer_Idle_TSMG_upper_body
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_TSMG_upper_body_buffer/deer_Idle_TSMG_upper_body/deer_Idle_head1_ParentToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_TSMG_upper_body_buffer/deer_Idle_TSMG_upper_body/deer_Idle_head1_ParentToUpperBody/deer_Idle_head1_rotIsolate
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_TSMG_upper_body_buffer/deer_Idle_TSMG_upper_body/deer_Idle_leftLeg1_ParentToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_TSMG_upper_body_buffer/deer_Idle_TSMG_upper_body/deer_Idle_leftLeg2_ParentToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_TSMG_upper_body_buffer/deer_Idle_TSMG_upper_body/deer_Idle_rightLeg1_ParentToUpperBody
+        weight: 1
+      - path: deer_Idle_TSMG_Rig/deer_Idle_TSMG_root/deer_Idle_TSMG_IK_Controllers/deer_Idle_TSMG_upper_body_buffer/deer_Idle_TSMG_upper_body/deer_Idle_rightLeg2_ParentToUpperBody
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

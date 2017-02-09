@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 2d3a9fa6c4eb0b744ba21e3efe56f31f
+timeCreated: 1458729890
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: head1_head
+    100002: head1_neck
+    100004: joint1
+    100006: joint2
+    100008: leftLeg1_HiResFoot
+    100010: leftLeg1_HiResLowerLeg
+    100012: leftLeg1_HiResLowerLegTwist
+    100014: leftLeg1_HiResToe
+    100016: leftLeg1_HiResUpperLeg
+    100018: leftLeg1_HiResUpperLegTwist
+    100020: leftLeg2_HiResFoot
+    100022: leftLeg2_HiResLowerLeg
+    100024: leftLeg2_HiResLowerLegTwist
+    100026: leftLeg2_HiResToe
+    100028: leftLeg2_HiResUpperLeg
+    100030: leftLeg2_HiResUpperLegTwist
+    100032: rightLeg1_HiResFoot
+    100034: rightLeg1_HiResLowerLeg
+    100036: rightLeg1_HiResLowerLegTwist
+    100038: rightLeg1_HiResToe
+    100040: rightLeg1_HiResUpperLeg
+    100042: rightLeg1_HiResUpperLegTwist
+    100044: rightLeg2_HiResFoot
+    100046: rightLeg2_HiResLowerLeg
+    100048: rightLeg2_HiResLowerLegTwist
+    100050: rightLeg2_HiResToe
+    100052: rightLeg2_HiResUpperLeg
+    100054: rightLeg2_HiResUpperLegTwist
+    100056: spine1_hiResHips
+    100058: spine1_hiResSpine1
+    100060: spine1_hiResSpine2
+    100062: spine1_hiResSpine3
+    100064: spine1_hiResSpine4
+    100066: spine1_hiResSpine5
+    100068: tail1_Joint1
+    100070: tail1_Joint2
+    100072: tail1_Joint3
+    100074: tail1_Joint4
+    100076: tail1_Joint5
+    100078: tail1_Joint6
+    100080: tail1_Joint7
+    100082: tail1_Joint8
+    100084: tail1_Joint9
+    100086: //RootNode
+    100088: top2
+    100090: TSMG_Cruft
+    100092: TSMG_Rig
+    100094: TSMGWorldJoint
+    400000: head1_head
+    400002: head1_neck
+    400004: joint1
+    400006: joint2
+    400008: leftLeg1_HiResFoot
+    400010: leftLeg1_HiResLowerLeg
+    400012: leftLeg1_HiResLowerLegTwist
+    400014: leftLeg1_HiResToe
+    400016: leftLeg1_HiResUpperLeg
+    400018: leftLeg1_HiResUpperLegTwist
+    400020: leftLeg2_HiResFoot
+    400022: leftLeg2_HiResLowerLeg
+    400024: leftLeg2_HiResLowerLegTwist
+    400026: leftLeg2_HiResToe
+    400028: leftLeg2_HiResUpperLeg
+    400030: leftLeg2_HiResUpperLegTwist
+    400032: rightLeg1_HiResFoot
+    400034: rightLeg1_HiResLowerLeg
+    400036: rightLeg1_HiResLowerLegTwist
+    400038: rightLeg1_HiResToe
+    400040: rightLeg1_HiResUpperLeg
+    400042: rightLeg1_HiResUpperLegTwist
+    400044: rightLeg2_HiResFoot
+    400046: rightLeg2_HiResLowerLeg
+    400048: rightLeg2_HiResLowerLegTwist
+    400050: rightLeg2_HiResToe
+    400052: rightLeg2_HiResUpperLeg
+    400054: rightLeg2_HiResUpperLegTwist
+    400056: spine1_hiResHips
+    400058: spine1_hiResSpine1
+    400060: spine1_hiResSpine2
+    400062: spine1_hiResSpine3
+    400064: spine1_hiResSpine4
+    400066: spine1_hiResSpine5
+    400068: tail1_Joint1
+    400070: tail1_Joint2
+    400072: tail1_Joint3
+    400074: tail1_Joint4
+    400076: tail1_Joint5
+    400078: tail1_Joint6
+    400080: tail1_Joint7
+    400082: tail1_Joint8
+    400084: tail1_Joint9
+    400086: //RootNode
+    400088: top2
+    400090: TSMG_Cruft
+    400092: TSMG_Rig
+    400094: TSMGWorldJoint
+    4300000: top2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: top2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
