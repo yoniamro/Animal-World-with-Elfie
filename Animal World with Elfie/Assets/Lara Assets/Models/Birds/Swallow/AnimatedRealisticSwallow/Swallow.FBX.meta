@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: debafcfd14521744f89a8a2e56c645d6
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone003(mirrored)
+    100010: Bone004
+    100012: Bone004(mirrored)
+    100014: Bone005
+    100016: Bone006
+    100018: Bone007
+    100020: Bone008
+    100022: Bone008(mirrored)
+    100024: Bone009
+    100026: Bone009(mirrored)
+    100028: Bone010
+    100030: Bone010(mirrored)
+    100032: Bone011
+    100034: Bone011(mirrored)
+    100036: Bone012
+    100038: Bone012(mirrored)
+    100040: Bone013
+    100042: Bone013(mirrored)
+    100044: Bone014
+    100046: Bone015
+    100048: Bone016
+    100050: Bone017
+    100052: golondrina
+    100054: Bone014(mirrored)
+    100056: Bone015(mirrored)
+    100058: Bone016(mirrored)
+    100060: Bone017(mirrored)
+    100062: Bone018
+    100064: Bone018(mirrored)
+    100066: Bone019
+    100068: Bone019(mirrored)
+    100070: Bone020
+    100072: Bone020(mirrored)
+    100074: Bone021
+    100076: Bone021(mirrored)
+    100078: Bone022
+    100080: Bone023
+    100082: Bone024
+    100084: Bone025
+    100086: swallow
+    400000: //RootNode
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone003(mirrored)
+    400010: Bone004
+    400012: Bone004(mirrored)
+    400014: Bone005
+    400016: Bone006
+    400018: Bone007
+    400020: Bone008
+    400022: Bone008(mirrored)
+    400024: Bone009
+    400026: Bone009(mirrored)
+    400028: Bone010
+    400030: Bone010(mirrored)
+    400032: Bone011
+    400034: Bone011(mirrored)
+    400036: Bone012
+    400038: Bone012(mirrored)
+    400040: Bone013
+    400042: Bone013(mirrored)
+    400044: Bone014
+    400046: Bone015
+    400048: Bone016
+    400050: Bone017
+    400052: golondrina
+    400054: Bone014(mirrored)
+    400056: Bone015(mirrored)
+    400058: Bone016(mirrored)
+    400060: Bone017(mirrored)
+    400062: Bone018
+    400064: Bone018(mirrored)
+    400066: Bone019
+    400068: Bone019(mirrored)
+    400070: Bone020
+    400072: Bone020(mirrored)
+    400074: Bone021
+    400076: Bone021(mirrored)
+    400078: Bone022
+    400080: Bone023
+    400082: Bone024
+    400084: Bone025
+    400086: swallow
+    2300000: //RootNode
+    2300002: golondrina
+    3300000: //RootNode
+    3300002: golondrina
+    4300000: golondrina
+    4300002: swallow
+    7400000: swallowFlying
+    7400002: swallowGliding
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: golondrina
+    13700002: swallow
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: swallowFlying
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swallowGliding
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 125
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Bone001
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 2da2160592de70842b8a4116d0b59abf
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: beak
+    100002: Bone007
+    100004: Bone007(mirrored)
+    100006: Bone014
+    100008: Bone014(mirrored)
+    100010: Bone015
+    100012: Bone015(mirrored)
+    100014: Bone016
+    100016: Bone016(mirrored)
+    100018: Bone017
+    100020: Bone017(mirrored)
+    100022: Bone018
+    100024: Bone018(mirrored)
+    100026: Bone021
+    100028: Bone021(mirrored)
+    100030: Bone022
+    100032: Bone022(mirrored)
+    100034: Bone025
+    100036: Bone025(mirrored)
+    100038: Bone026
+    100040: Bone026(mirrored)
+    100042: Bone033
+    100044: Bone051
+    100046: Bone053
+    100048: EndTail
+    100050: Feather_L
+    100052: Feather_L 1
+    100054: Feather_R
+    100056: Feather_R 1
+    100058: Femur_L
+    100060: Femur_R
+    100062: FingerBB_R
+    100064: FingerBB_R(mirrored)
+    100066: FingerBF_R
+    100068: FingerBF_R(mirrored)
+    100070: FingerSB_R
+    100072: FingerSB_R(mirrored)
+    100074: FingerSF_R
+    100076: FingerSF_R(mirrored)
+    100078: Head
+    100080: Humerus_L
+    100082: Humerus_R
+    100084: Mandible
+    100086: Neck
+    100088: Parrot
+    100090: //RootNode
+    100092: Pelvis
+    100094: Point001
+    100096: RibCage
+    100098: Tail
+    100100: Tarsometatarsus_R
+    100102: Tarsometatarsus_R(mirrored)
+    100104: Tibia_R
+    100106: Tibia_R(mirrored)
+    400000: beak
+    400002: Bone007
+    400004: Bone007(mirrored)
+    400006: Bone014
+    400008: Bone014(mirrored)
+    400010: Bone015
+    400012: Bone015(mirrored)
+    400014: Bone016
+    400016: Bone016(mirrored)
+    400018: Bone017
+    400020: Bone017(mirrored)
+    400022: Bone018
+    400024: Bone018(mirrored)
+    400026: Bone021
+    400028: Bone021(mirrored)
+    400030: Bone022
+    400032: Bone022(mirrored)
+    400034: Bone025
+    400036: Bone025(mirrored)
+    400038: Bone026
+    400040: Bone026(mirrored)
+    400042: Bone033
+    400044: Bone051
+    400046: Bone053
+    400048: EndTail
+    400050: Feather_L
+    400052: Feather_L 1
+    400054: Feather_R
+    400056: Feather_R 1
+    400058: Femur_L
+    400060: Femur_R
+    400062: FingerBB_R
+    400064: FingerBB_R(mirrored)
+    400066: FingerBF_R
+    400068: FingerBF_R(mirrored)
+    400070: FingerSB_R
+    400072: FingerSB_R(mirrored)
+    400074: FingerSF_R
+    400076: FingerSF_R(mirrored)
+    400078: Head
+    400080: Humerus_L
+    400082: Humerus_R
+    400084: Mandible
+    400086: Neck
+    400088: //RootNode
+    400090: Parrot
+    400092: Pelvis
+    400094: Point001
+    400096: RibCage
+    400098: Tail
+    400100: Tarsometatarsus_R
+    400102: Tarsometatarsus_R(mirrored)
+    400104: Tibia_R
+    400106: Tibia_R(mirrored)
+    2300000: Parrot
+    3300000: Parrot
+    4300000: Parrot
+    7400000: Parrot_takeoff
+    7400002: Parrot_flying
+    7400004: Parrot_landing
+    7400006: Parrot_jumping
+    7400008: Parrot_walking
+    7400010: Parrot_idle
+    7400012: Parrot_eating
+    7400014: Parrot_death
+    7400016: Parrot_glide
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Parrot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Parrot_takeoff
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parrot_flying
+      takeName: Take 001
+      firstFrame: 24
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Parrot
+        weight: 1
+      - path: Point001
+        weight: 1
+      - path: Point001/Pelvis
+        weight: 1
+      - path: Point001/Pelvis/Femur_L
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBB_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBB_R(mirrored)/Bone015(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBB_R(mirrored)/Bone015(mirrored)/Bone014(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBF_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBF_R(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBF_R(mirrored)/Bone018(mirrored)/Bone007(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSB_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSB_R(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSB_R(mirrored)/Bone022(mirrored)/Bone021(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSF_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSF_R(mirrored)/Bone016(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSF_R(mirrored)/Bone016(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBB_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBB_R/Bone015
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBB_R/Bone015/Bone014
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBF_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBF_R/Bone018
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBF_R/Bone018/Bone007
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSB_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSB_R/Bone022
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSB_R/Bone022/Bone021
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSF_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSF_R/Bone016
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSF_R/Bone016/Bone017
+        weight: 1
+      - path: Point001/Pelvis/RibCage
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_L
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_L/Bone026(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_L/Bone026(mirrored)/Bone025(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_R
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_R/Bone026
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_R/Bone026/Bone025
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head/beak
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head/beak/Bone051
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head/Mandible
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head/Mandible/Bone053
+        weight: 1
+      - path: Point001/Pelvis/Tail
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail/Feather_L
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail/Feather_L 1
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail/Feather_R
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail/Feather_R 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parrot_landing
+      takeName: Take 001
+      firstFrame: 36
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parrot_jumping
+      takeName: Take 001
+      firstFrame: 62
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parrot_walking
+      takeName: Take 001
+      firstFrame: 75
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parrot_idle
+      takeName: Take 001
+      firstFrame: 96
+      lastFrame: 142
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parrot_eating
+      takeName: Take 001
+      firstFrame: 143
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Parrot
+        weight: 1
+      - path: Point001
+        weight: 1
+      - path: Point001/Pelvis
+        weight: 1
+      - path: Point001/Pelvis/Femur_L
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBB_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBB_R(mirrored)/Bone015(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBB_R(mirrored)/Bone015(mirrored)/Bone014(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBF_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBF_R(mirrored)/Bone018(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerBF_R(mirrored)/Bone018(mirrored)/Bone007(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSB_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSB_R(mirrored)/Bone022(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSB_R(mirrored)/Bone022(mirrored)/Bone021(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSF_R(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSF_R(mirrored)/Bone016(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_L/Tibia_R(mirrored)/Tarsometatarsus_R(mirrored)/FingerSF_R(mirrored)/Bone016(mirrored)/Bone017(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/Femur_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBB_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBB_R/Bone015
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBB_R/Bone015/Bone014
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBF_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBF_R/Bone018
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerBF_R/Bone018/Bone007
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSB_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSB_R/Bone022
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSB_R/Bone022/Bone021
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSF_R
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSF_R/Bone016
+        weight: 1
+      - path: Point001/Pelvis/Femur_R/Tibia_R/Tarsometatarsus_R/FingerSF_R/Bone016/Bone017
+        weight: 1
+      - path: Point001/Pelvis/RibCage
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_L
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_L/Bone026(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_L/Bone026(mirrored)/Bone025(mirrored)
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_R
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_R/Bone026
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Humerus_R/Bone026/Bone025
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head/beak
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head/beak/Bone051
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head/Mandible
+        weight: 1
+      - path: Point001/Pelvis/RibCage/Neck/Bone033/Head/Mandible/Bone053
+        weight: 1
+      - path: Point001/Pelvis/Tail
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail/Feather_L
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail/Feather_L 1
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail/Feather_R
+        weight: 1
+      - path: Point001/Pelvis/Tail/EndTail/Feather_R 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parrot_death
+      takeName: Take 001
+      firstFrame: 192
+      lastFrame: 211
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parrot_glide
+      takeName: Take 001
+      firstFrame: 213
+      lastFrame: 237
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
