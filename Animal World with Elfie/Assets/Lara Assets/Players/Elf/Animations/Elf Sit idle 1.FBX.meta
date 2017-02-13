@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 0070fe6029afd46b2b32f9af8a171c20
+timeCreated: 1445416836
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone002Elf_
+    100002: Bone003Elf_
+    100004: Bone004Elf_
+    100006: Bone005Elf_
+    100008: Bone006Elf_
+    100010: Bone007Elf_
+    100012: Bone008Elf_
+    100014: Bone009Elf_
+    100016: Bone010Elf_
+    100018: Bone011Elf_
+    100020: Bone012Elf_
+    100022: Bone013Elf_
+    100024: Bone014Elf_
+    100026: Bone015Elf_
+    100028: Bone016Elf_
+    100030: Bone017Elf_
+    100032: Bone018Elf_
+    100034: Bone019Elf_
+    100036: Bone020Elf_
+    100038: Bone021Elf_
+    100040: Bone022Elf_
+    100042: Bone023Elf_
+    100044: Bone024Elf_
+    100046: Bone025Elf_
+    100048: Bone026Elf_
+    100050: Bone027Elf_
+    100052: Bone028Elf_
+    100054: Bone029Elf_
+    100056: Bone030Elf_
+    100058: Bone031Elf_
+    100060: Bone032Elf_
+    100062: Bone033Elf_
+    100064: Bone034Elf_
+    100066: Bone035Elf_
+    100068: Elf
+    100070: //RootNode
+    100072: Elf_
+    100074: Elf_ Footsteps
+    100076: Elf_ Head
+    100078: Elf_ HeadNub
+    100080: Elf_ L Calf
+    100082: Elf_ L Clavicle
+    100084: Elf_ L Finger0
+    100086: Elf_ L Finger01
+    100088: Elf_ L Finger02
+    100090: Elf_ L Finger0Nub
+    100092: Elf_ L Finger1
+    100094: Elf_ L Finger11
+    100096: Elf_ L Finger12
+    100098: Elf_ L Finger1Nub
+    100100: Elf_ L Finger2
+    100102: Elf_ L Finger21
+    100104: Elf_ L Finger22
+    100106: Elf_ L Finger2Nub
+    100108: Elf_ L Finger3
+    100110: Elf_ L Finger31
+    100112: Elf_ L Finger32
+    100114: Elf_ L Finger3Nub
+    100116: Elf_ L Finger4
+    100118: Elf_ L Finger41
+    100120: Elf_ L Finger42
+    100122: Elf_ L Finger4Nub
+    100124: Elf_ L Foot
+    100126: Elf_ L Forearm
+    100128: Elf_ L Hand
+    100130: Elf_ L Thigh
+    100132: Elf_ L Toe0
+    100134: Elf_ L Toe0Nub
+    100136: Elf_ L UpperArm
+    100138: Elf_ Neck
+    100140: Elf_ Pelvis
+    100142: Elf_ Ponytail1
+    100144: Elf_ Ponytail11
+    100146: Elf_ Ponytail12
+    100148: Elf_ Ponytail13
+    100150: Elf_ Ponytail1Nub
+    100152: Elf_ R Calf
+    100154: Elf_ R Clavicle
+    100156: Elf_ R Finger0
+    100158: Elf_ R Finger01
+    100160: Elf_ R Finger02
+    100162: Elf_ R Finger0Nub
+    100164: Elf_ R Finger1
+    100166: Elf_ R Finger11
+    100168: Elf_ R Finger12
+    100170: Elf_ R Finger1Nub
+    100172: Elf_ R Finger2
+    100174: Elf_ R Finger21
+    100176: Elf_ R Finger22
+    100178: Elf_ R Finger2Nub
+    100180: Elf_ R Finger3
+    100182: Elf_ R Finger31
+    100184: Elf_ R Finger32
+    100186: Elf_ R Finger3Nub
+    100188: Elf_ R Finger4
+    100190: Elf_ R Finger41
+    100192: Elf_ R Finger42
+    100194: Elf_ R Finger4Nub
+    100196: Elf_ R Foot
+    100198: Elf_ R Forearm
+    100200: Elf_ R Hand
+    100202: Elf_ R Thigh
+    100204: Elf_ R Toe0
+    100206: Elf_ R Toe0Nub
+    100208: Elf_ R UpperArm
+    100210: Elf_ Spine
+    100212: Elf_ Spine1
+    100214: Elf_ Spine2
+    100216: Elf_ Xtra01
+    100218: Elf_ Xtra01Nub
+    400000: Bone002Elf_
+    400002: Bone003Elf_
+    400004: Bone004Elf_
+    400006: Bone005Elf_
+    400008: Bone006Elf_
+    400010: Bone007Elf_
+    400012: Bone008Elf_
+    400014: Bone009Elf_
+    400016: Bone010Elf_
+    400018: Bone011Elf_
+    400020: Bone012Elf_
+    400022: Bone013Elf_
+    400024: Bone014Elf_
+    400026: Bone015Elf_
+    400028: Bone016Elf_
+    400030: Bone017Elf_
+    400032: Bone018Elf_
+    400034: Bone019Elf_
+    400036: Bone020Elf_
+    400038: Bone021Elf_
+    400040: Bone022Elf_
+    400042: Bone023Elf_
+    400044: Bone024Elf_
+    400046: Bone025Elf_
+    400048: Bone026Elf_
+    400050: Bone027Elf_
+    400052: Bone028Elf_
+    400054: Bone029Elf_
+    400056: Bone030Elf_
+    400058: Bone031Elf_
+    400060: Bone032Elf_
+    400062: Bone033Elf_
+    400064: Bone034Elf_
+    400066: Bone035Elf_
+    400068: Elf
+    400070: //RootNode
+    400072: Elf_
+    400074: Elf_ Footsteps
+    400076: Elf_ Head
+    400078: Elf_ HeadNub
+    400080: Elf_ L Calf
+    400082: Elf_ L Clavicle
+    400084: Elf_ L Finger0
+    400086: Elf_ L Finger01
+    400088: Elf_ L Finger02
+    400090: Elf_ L Finger0Nub
+    400092: Elf_ L Finger1
+    400094: Elf_ L Finger11
+    400096: Elf_ L Finger12
+    400098: Elf_ L Finger1Nub
+    400100: Elf_ L Finger2
+    400102: Elf_ L Finger21
+    400104: Elf_ L Finger22
+    400106: Elf_ L Finger2Nub
+    400108: Elf_ L Finger3
+    400110: Elf_ L Finger31
+    400112: Elf_ L Finger32
+    400114: Elf_ L Finger3Nub
+    400116: Elf_ L Finger4
+    400118: Elf_ L Finger41
+    400120: Elf_ L Finger42
+    400122: Elf_ L Finger4Nub
+    400124: Elf_ L Foot
+    400126: Elf_ L Forearm
+    400128: Elf_ L Hand
+    400130: Elf_ L Thigh
+    400132: Elf_ L Toe0
+    400134: Elf_ L Toe0Nub
+    400136: Elf_ L UpperArm
+    400138: Elf_ Neck
+    400140: Elf_ Pelvis
+    400142: Elf_ Ponytail1
+    400144: Elf_ Ponytail11
+    400146: Elf_ Ponytail12
+    400148: Elf_ Ponytail13
+    400150: Elf_ Ponytail1Nub
+    400152: Elf_ R Calf
+    400154: Elf_ R Clavicle
+    400156: Elf_ R Finger0
+    400158: Elf_ R Finger01
+    400160: Elf_ R Finger02
+    400162: Elf_ R Finger0Nub
+    400164: Elf_ R Finger1
+    400166: Elf_ R Finger11
+    400168: Elf_ R Finger12
+    400170: Elf_ R Finger1Nub
+    400172: Elf_ R Finger2
+    400174: Elf_ R Finger21
+    400176: Elf_ R Finger22
+    400178: Elf_ R Finger2Nub
+    400180: Elf_ R Finger3
+    400182: Elf_ R Finger31
+    400184: Elf_ R Finger32
+    400186: Elf_ R Finger3Nub
+    400188: Elf_ R Finger4
+    400190: Elf_ R Finger41
+    400192: Elf_ R Finger42
+    400194: Elf_ R Finger4Nub
+    400196: Elf_ R Foot
+    400198: Elf_ R Forearm
+    400200: Elf_ R Hand
+    400202: Elf_ R Thigh
+    400204: Elf_ R Toe0
+    400206: Elf_ R Toe0Nub
+    400208: Elf_ R UpperArm
+    400210: Elf_ Spine
+    400212: Elf_ Spine1
+    400214: Elf_ Spine2
+    400216: Elf_ Xtra01
+    400218: Elf_ Xtra01Nub
+    4300000: Elf
+    7400000: Elf Sit idle 1
+    9500000: //RootNode
+    13700000: Elf
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Elf Sit idle 1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Elf
+        weight: 1
+      - path: Elf_
+        weight: 1
+      - path: Elf_/Elf_ Footsteps
+        weight: 1
+      - path: Elf_/Elf_ Pelvis
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ L Thigh
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ L Thigh/Elf_ L Calf
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ L Thigh/Elf_ L Calf/Elf_ L Foot
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ L Thigh/Elf_ L Calf/Elf_ L Foot/Elf_
+          L Toe0
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ L Thigh/Elf_ L Calf/Elf_ L Foot/Elf_
+          L Toe0/Elf_ L Toe0Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ R Thigh
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ R Thigh/Elf_ R Calf
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ R Thigh/Elf_ R Calf/Elf_ R Foot
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ R Thigh/Elf_ R Calf/Elf_ R Foot/Elf_
+          R Toe0
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ R Thigh/Elf_ R Calf/Elf_ R Foot/Elf_
+          R Toe0/Elf_ R Toe0Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone002Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone003Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone004Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone005Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone006Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone007Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone008Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone009Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone010Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone011Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone012Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone015Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone016Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone017Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone018Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone019Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone020Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone021Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone023Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone024Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone025Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone026Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone027Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone028Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone029Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone030Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone031Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone032Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone033Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone034Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Bone035Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          HeadNub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Ponytail1
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Ponytail1/Elf_ Ponytail11
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Ponytail1/Elf_ Ponytail11/Elf_ Ponytail12
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Ponytail1/Elf_ Ponytail11/Elf_ Ponytail12/Elf_ Ponytail13
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Ponytail1/Elf_ Ponytail11/Elf_ Ponytail12/Elf_ Ponytail13/Elf_ Ponytail1Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Xtra01
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Xtra01/Bone013Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Xtra01/Bone014Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Xtra01/Bone022Elf_
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ Head/Elf_
+          Xtra01/Elf_ Xtra01Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger0
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger0/Elf_
+          L Finger01
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger0/Elf_
+          L Finger01/Elf_ L Finger02
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger0/Elf_
+          L Finger01/Elf_ L Finger02/Elf_ L Finger0Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger1
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger1/Elf_
+          L Finger11
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger1/Elf_
+          L Finger11/Elf_ L Finger12
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger1/Elf_
+          L Finger11/Elf_ L Finger12/Elf_ L Finger1Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger2
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger2/Elf_
+          L Finger21
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger2/Elf_
+          L Finger21/Elf_ L Finger22
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger2/Elf_
+          L Finger21/Elf_ L Finger22/Elf_ L Finger2Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger3
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger3/Elf_
+          L Finger31
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger3/Elf_
+          L Finger31/Elf_ L Finger32
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger3/Elf_
+          L Finger31/Elf_ L Finger32/Elf_ L Finger3Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger4
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger4/Elf_
+          L Finger41
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger4/Elf_
+          L Finger41/Elf_ L Finger42
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ L
+          Clavicle/Elf_ L UpperArm/Elf_ L Forearm/Elf_ L Hand/Elf_ L Finger4/Elf_
+          L Finger41/Elf_ L Finger42/Elf_ L Finger4Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger0
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger0/Elf_
+          R Finger01
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger0/Elf_
+          R Finger01/Elf_ R Finger02
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger0/Elf_
+          R Finger01/Elf_ R Finger02/Elf_ R Finger0Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger1
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger1/Elf_
+          R Finger11
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger1/Elf_
+          R Finger11/Elf_ R Finger12
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger1/Elf_
+          R Finger11/Elf_ R Finger12/Elf_ R Finger1Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger2
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger2/Elf_
+          R Finger21
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger2/Elf_
+          R Finger21/Elf_ R Finger22
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger2/Elf_
+          R Finger21/Elf_ R Finger22/Elf_ R Finger2Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger3
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger3/Elf_
+          R Finger31
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger3/Elf_
+          R Finger31/Elf_ R Finger32
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger3/Elf_
+          R Finger31/Elf_ R Finger32/Elf_ R Finger3Nub
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger4
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger4/Elf_
+          R Finger41
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger4/Elf_
+          R Finger41/Elf_ R Finger42
+        weight: 1
+      - path: Elf_/Elf_ Pelvis/Elf_ Spine/Elf_ Spine1/Elf_ Spine2/Elf_ Neck/Elf_ R
+          Clavicle/Elf_ R UpperArm/Elf_ R Forearm/Elf_ R Hand/Elf_ R Finger4/Elf_
+          R Finger41/Elf_ R Finger42/Elf_ R Finger4Nub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
